@@ -1,0 +1,6 @@
+* [Home]({{ site.baseurl }}{% link index.md %})
+* [Biography]({{ site.baseurl }}{% link index.md %})
+* [Reviews]({{ site.baseurl }}{% link index.md %})
+* [Gallery]({{ site.baseurl }}{% link index.md %})
+* [Videos]({{ site.baseurl }}{% link index.md %})
+* [Contact]({{ site.baseurl }}{% link index.md %})

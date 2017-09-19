@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+  <div class="header" markdown="1">
+    {% capture header_include %}{% include header.md %}{% endcapture %}
+    {{ header_include | markdownify }}
+  </div>
+	<div class="content">
+	{{ content }}
+	</div>
+  <div class="footer" markdown="1">
+    {% capture footer_include %}{% include footer.md %}{% endcapture %}
+    {{ footer_include | markdownify }}
+  </div>
+  </body>
+</html>
+
