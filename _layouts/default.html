@@ -2,16 +2,17 @@
 <html>
   <head>
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/main.css"/>
   </head>
   <body>
-  <div class="header" markdown="1">
+  <div class="header">
     {% capture header_include %}{% include header.md %}{% endcapture %}
     {{ header_include | markdownify }}
   </div>
 	<div class="content">
 	{{ content }}
 	</div>
-  <div class="footer" markdown="1">
+  <div class="footer">
     {% capture footer_include %}{% include footer.md %}{% endcapture %}
     {{ footer_include | markdownify }}
   </div>
