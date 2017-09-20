@@ -1,7 +1,35 @@
-.header img {
-  display: block;
-  margin: auto;
-}
+
 .header {
+  text-align: center;
   font-family: sans-serif;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid #cfcfcf;
+  
+  img {
+  	margin: 0 auto;
+  	width: 400px;
+  }
+
+  ul.menu {
+    @extend .pure-menu;
+    @extend .pure-menu-horizontal;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    li {
+      @extend .pure-menu-item;
+      height: 40px;
+      line-height: 40px;
+      font-size: 14px;
+      
+      a {
+        @extend .pure-menu-link;
+        padding: 0 15px 0;
+      }
+      a:hover {
+//        background-color: rgba(0, 0, 0, 0.0);
+      }
+    }
+  }
 }
+
