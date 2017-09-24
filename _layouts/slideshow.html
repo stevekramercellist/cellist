@@ -13,6 +13,9 @@
     {% capture header_include %}{% include header.md %}{% endcapture %}
     {{ header_include | markdownify }}
   </div>
+  <div class="slideshow">
+    {% include slides.html %}
+  </div>  
 	<div class="content">
 	{{ content }}
 	</div>
@@ -20,6 +23,7 @@
     {% capture footer_include %}{% include footer.md %}{% endcapture %}
     {{ footer_include | markdownify }}
   </div>
+  <script src="javascript/slideshow.js"></script>
   </body>
 </html>
 

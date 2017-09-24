@@ -1,3 +1,0 @@
-<Files *.pdf>
-    Header set Content-Disposition attachment
-</Files>
