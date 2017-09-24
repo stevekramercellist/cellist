@@ -26,9 +26,19 @@
         @extend .pure-menu-link;
         padding: 0 15px 0;
       }
-      a:hover {
-//        background-color: rgba(0, 0, 0, 0.0);
-      }
+    }
+    
+    li:hover::after { 
+      background-color: #d14836;
+      opacity: 1;
+      position: absolute;
+      content: '';
+      display: block;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      transition: all 0.2s linear;
     }
   }
 }

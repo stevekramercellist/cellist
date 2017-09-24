@@ -18,11 +18,11 @@ title: Steve Kramer Cellist ‹ The Official Website of Steve Kramer
 
 ## PDF Attachments
 
-| English Biography  | Download PDF  |
-| French Biography   | Download PDF  |
-| Russian Biography  | Download PDF  |
-| Chinese Biography  | Download PDF  |
-| Hebrew Biography   | Download PDF  |
+| English Biography  | [Download PDF](documents/SteveKramer_EnglishBio.pdf)  |
+| French Biography   | [Download PDF](documents/SteveKramer_FrenchBio.pdf)  |
+| Russian Biography  | [Download PDF](documents/SteveKramer_RussianBio.pdf)  |
+| Chinese Biography  | [Download PDF](documents/SteveKramer_ChineseBio.pdf)  |
+| Hebrew Biography   | [Download PDF](documents/SteveKramer_HebrewBio.pdf)  |
 
 </div>
 <div class="pure-u-1-2">
@@ -37,3 +37,5 @@ title: Steve Kramer Cellist ‹ The Official Website of Steve Kramer
 
 </div>
 </div>
+
+<script src="javascript/slideshow.js"></script>
