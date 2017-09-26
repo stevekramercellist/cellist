@@ -22,3 +22,41 @@
     }
   }
 }
+
+/*.gallery {  Masonry container http://w3bits.com/css-masonry/ 
+    column-count: 4;
+    margin: 1.5em 0;
+    padding: 0;
+    -moz-column-gap: 1.5em;
+    -webkit-column-gap: 1.5em;
+    column-gap: 1.5em;
+    .gallery_image {  Masonry bricks or child elements 
+      display: inline-block;
+      background: #fff;
+      padding: 1em;
+      margin: 0 0 1.5em;
+      width: 100%;
+      box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      box-shadow: 2px 2px 4px 0 #ccc;
+    }
+}*/
+
+.gallery_image { width: 200px; }
+.gallery_image { width: 400px; }
+
+.gallery_image img.small {
+  max-width: 200px;
+/*  max-heigth: 200px;*/
+}
+
+.gallery_image img.medium {
+  max-width: 300px;
+  max-heigth: 300px;
+}
+
+.gallery_image img.large {
+  max-width: 400px;
+  max-heigth: 400px;
+}
