@@ -1,9 +1,30 @@
 .content {
-  width: 768px;
+  width: 80%;
+  font-family: serif;
+  font-size: large;
+  color: #666;
   margin-left: auto;
   margin-right: auto;
 }
-
+h1,h2,h3,h4,h5,h6,p {
+  font-family: serif;
+  color: #666;
+}
+th, td {
+  font-family: serif;
+  font-size: large;
+  color: #666;
+}
+.quote {
+  font-size: x-large;
+  font-style: italic;
+}
+.attribution {
+  font-size: x-large;
+}
+.telephone img {
+  height: 17px;
+}
 .slideshow #slideshow {
   max-width: 100%;
   width: 100%;
@@ -23,40 +44,34 @@
   }
 }
 
-/*.gallery {  Masonry container http://w3bits.com/css-masonry/ 
-    column-count: 4;
-    margin: 1.5em 0;
-    padding: 0;
-    -moz-column-gap: 1.5em;
-    -webkit-column-gap: 1.5em;
-    column-gap: 1.5em;
-    .gallery_image {  Masonry bricks or child elements 
+.gallery { // Masonry container http://w3bits.com/css-masonry/ 
+  background: #000;
+    column-count: 6;
+    margin-top: 4px;
+    padding: 4px;
+    -moz-column-gap: 4px;
+    -webkit-column-gap: 4px;
+    column-gap: 4px;
+    .gallery_image {  // Masonry bricks or child elements 
       display: inline-block;
-      background: #fff;
-      padding: 1em;
-      margin: 0 0 1.5em;
+      padding: 0;
+      margin: 0;
       width: 100%;
       box-sizing: border-box;
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
-      box-shadow: 2px 2px 4px 0 #ccc;
+      img {
+        width: 100%;
+      }
     }
-}*/
-
-.gallery_image { width: 200px; }
-.gallery_image { width: 400px; }
-
-.gallery_image img.small {
-  max-width: 200px;
-/*  max-heigth: 200px;*/
 }
 
-.gallery_image img.medium {
-  max-width: 300px;
-  max-heigth: 300px;
-}
-
-.gallery_image img.large {
-  max-width: 400px;
-  max-heigth: 400px;
+.footer {
+    width: 100%;
+    background: #F0F0F0;
+    border: 1px solid #E6E6E6;
+    color: #666;
+    margin-top: 30px;
+    padding: 5px 60px;
+    font-size: x-small;
 }

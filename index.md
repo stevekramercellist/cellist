@@ -4,15 +4,10 @@ layout: slideshow
 ---
 {::options parse_block_html="true" /}
 
- “To-morrow, and to-morrow, and to-morrow, creeps in this petty pace 
- from day to day, to the last syllable of recorded time. And all our 
- yesterdays have lighted fools the way to dusty death. Out, out brief 
- candle! Life is but a walking shadow, a poor player, that struts and 
- frets his hour upon the stage. And then is heard no more. It is a tale 
- told by an idiot, full of sound and fury, signifying nothing.”
-    
-    — William Shakespeare, “Macbeth.”
-
+“To-morrow, and to-morrow, and to-morrow, creeps in this petty pace from day to day, to the last syllable of recorded time. And all our yesterdays have lighted fools the way to dusty death. Out, out brief candle! Life is but a walking shadow, a poor player, that struts and frets his hour upon the stage. And then is heard no more. It is a tale told by an idiot, full of sound and fury, signifying nothing.”
+{: .quote }
+— William Shakespeare, “Macbeth.”
+{: .attribution }
 
 <div class="pure-g">
 <div class="pure-u-1-2">
