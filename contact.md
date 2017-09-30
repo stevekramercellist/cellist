@@ -20,4 +20,4 @@ E-mail: [farthingbank@comcast.net](mailto:farthingbank@comcast.net)
 **Steve Kramer** \\
 E-mail: [stevekramermusic@gmail.com](mailto:stevekramermusic@gmail.com) 
 
-Curriculum vitae: [Steve Kramer]()
+Curriculum vitae: [Steve Kramer]({{ site.baseurl }}/documents/Steve-Kramer-CV.pdf){:download="Steve-Kramer-CV.pdf"}
