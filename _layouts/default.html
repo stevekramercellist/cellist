@@ -7,6 +7,7 @@
     <title>{{ page.title }}</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css"/>
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/lightbox.min.css"/>
   </head>
   <body>
   <div class="header">
@@ -20,6 +21,7 @@
     {% capture footer_include %}{% include footer.md %}{% endcapture %}
     {{ footer_include | markdownify }}
   </div>
+  <script src="javascript/lightbox.min.js"></script>
   </body>
 </html>
 
