@@ -62,6 +62,7 @@ title: Gallery ‹ Steve Kramer Cellist
    description="Friends" %}
 {% include gimage.html url="/images/photos/20170923_181639.jpg" 
    description="Following a performance at Philadelphia’s television station, WPVI-TV, Channel 6-ABC" %}
+{% include gimage.html url="/images/photos/Radio_City.jpg" description="Performance debut in the great Radio City Music Hall, New York City" %}
 {% include gimage.html url="/images/photos/Twain_Kramer.jpg" description="Accompanied by Mark Twain at Centre Theaters Fundraiser, October 7th., 2017" %}
 {% include gimage.html url="/images/photos/093.JPG" description="God bless America" %}
 {% include gend.html %}
