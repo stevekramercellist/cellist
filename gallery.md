@@ -59,7 +59,7 @@ title: Gallery ‹ Steve Kramer Cellist
 {% include gimage.html url="/images/photos/20160806_124210.jpg" 
    description="Die-hard training with instructor in Bikram, Joel Pier and best friend, the world champion athlete, Poul Duvil. Running a 20+ marathon, hiking, mountaineering, snowboarding/skiing, swimming, yoga, pilates…it’s a lifestyle." %}
 {% include gimage.html url="/images/photos/20170930_012513.jpg" 
-   description="In a great company with Jessy Bermudez, founder of 'Asociasion de Musicos Latino Americos, AMLA, and Stanley Evans, Sirius Satellite Radio, and his lovely wife" %}
+   description="In a great company with Jessy Bermudez, founder of 'Asociasion de Musicos Latino Americos, AMLA, and radio host at Sirius Satellite Radio, Stanley Evans with his lovely wife" %}
 {% include gimage.html url="/images/photos/20170923_181639.jpg" 
    description="Following a performance at Philadelphia’s television station, WPVI-TV, Channel 6-ABC" %}
 {% include gimage.html url="/images/photos/Radio_City.jpg" description="Performance debut in the great Radio City Music Hall, New York City" %}
