@@ -55,7 +55,7 @@ title: Gallery ‹ Steve Kramer Cellist
 {% include gimage.html url="/images/photos/829.JPG" 
    description="Accompanied by my greatest fan, my dearest mother." %}
 {% include gimage.html url="/images/photos/Cellist-Boxing.jpg" 
-   description="Die-hard training with instructor in Bikram, Joel Pier and best friend, the world champion athlete, Poul Duvil. Running a 20+ marathon, hiking, mountaineering, snowboarding/skiing, swimming, yoga, pilates…it’s a lifestyle." %}
+   description="Die-hard training with the world champion athlete and boxer, Poul Duvil. Running a 20+ marathon, hiking, mountaineering, snowboarding/skiing, swimming, yoga, pilates…it’s a lifestyle." %}
 {% include gimage.html url="/images/photos/20160806_124210.jpg" 
    description="Together with the always charismatic Joel Pier following a Bikram session. It was in my early that I began practising yoga, introduced to me by Yehudi Menuhin. Through my affiliation with many recognized yoga teachers a door was open to witness and participate in the spiritual tradition of 'Sweat Lodges conducted by Native Americans" %}
 {% include gimage.html url="/images/photos/20170930_012513.jpg" 
