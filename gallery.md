@@ -9,7 +9,6 @@ title: Gallery ‹ Steve Kramer Cellist
    description="Violin lessons with grandfather, three years old." %}
 {% include gimage.html url="/images/photos/003.jpg" description="" %}
 {% include gimage.html url="/images/photos/Martha_Steve1.jpg" description="" %}
-{% include gimage.html url="/images/photos/Martha_Steve.jpg" description="" %}
 {% include gimage.html url="/images/photos/001.jpg"
    description="Martha and I posing following a family concert." %}
 
