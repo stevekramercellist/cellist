@@ -57,12 +57,12 @@ title: Gallery ‹ Steve Kramer Cellist
 {% include gimage.html url="/images/photos/Cellist-Boxing.jpg" 
    description="Die-hard training with the world champion athlete and boxer, Poul Duvil. Running a 20+ marathon, hiking, mountaineering, snowboarding/skiing, swimming, yoga, pilates…it’s a lifestyle." %}
 {% include gimage.html url="/images/photos/20160806_124210.jpg" 
-   description="Together with the always charismatic Joel Pier following a Bikram session. It was in my early that I began practising yoga, introduced to me by Yehudi Menuhin. Through my affiliation with many recognized yoga teachers a door was open to witness and participate in the spiritual tradition of 'Sweat Lodges conducted by Native Americans" %}
+   description="Together with the always charismatic Joel Pier following a Bikram session. It was in my early that I began practising yoga, introduced to me by Yehudi Menuhin. Through my affiliation with many recognized yoga teachers a door was open to witness and participate in the spiritual tradition of 'Sweat Lodge's' conducted by Native Americans" %}
 {% include gimage.html url="/images/photos/20170930_012513.jpg" 
    description="Following a performance in collaboration with Philadelphia's Mural Art's Project, honoring the six winner's of the Latin Fiesta's, Pioneer Award. In a great company with Jessy Bermudez, founder of 'Asociasion de Musicos Latino Americos, AMLA, and radio host at Sirius Satellite Radio, Stanley Evans with his lovely wife" %}
 {% include gimage.html url="/images/photos/20170923_181639.jpg" 
    description="Following a performance at Philadelphia’s television station, WPVI-TV, Channel 6-ABC" %}
 {% include gimage.html url="/images/photos/Radio_City.jpg" description="Performance debut in the great Radio City Music Hall, New York City" %}
 {% include gimage.html url="/images/photos/Twain_Kramer.jpg" description="Accompanied by Mark Twain at Centre Theaters Fundraiser, October 7th., 2017" %}
-{% include gimage.html url="/images/photos/093.JPG" description="God bless America" %}
+{% include gimage.html url="/images/photos/093.JPG" description="God Bless America" %}
 {% include gend.html %}
