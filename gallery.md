@@ -11,6 +11,8 @@ title: Gallery ‹ Steve Kramer Cellist
 {% include gimage.html url="/images/photos/Martha_Steve1.jpg" description="" %}
 {% include gimage.html url="/images/photos/001.jpg"
    description="Martha and I posing following a family concert." %}
+{% include gimage.html url="/images/photos/Martha_Steve.jpg"
+   description="The shortest distance between people, is the smile. ~ Victor Borge." %}
 {% include gimage.html url="/images/photos/004.jpg" 
    description="Playing as if my life depended upon it. Jens Brincker awarded me a price in Tivoli Hall at the 1993 Berlingske Tidende Classical Music Competition." %}
 {% include gimage.html url="/images/photos/Steve_10_age1.jpg" description="" %}
