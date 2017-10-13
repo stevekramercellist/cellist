@@ -7,6 +7,8 @@ title: Gallery ‹ Steve Kramer Cellist
    description="The Sound of music in a very young age." %}
 {% include gimage.html url="/images/photos/Dedushka_3_years_Steve1.jpg" 
    description="Violin lessons with grandfather, three years old." %}
+{% include gimage.html url="/images/photos/Vladimir_Kiev.jpg" 
+   description="Vladimir Y. Novak conducting the youth orchestra in the historic concert hall in Kiev" %}
 {% include gimage.html url="/images/photos/003.jpg" description="" %}
 {% include gimage.html url="/images/photos/Martha_Steve1.jpg" description="" %}
 {% include gimage.html url="/images/photos/Martha_Steve.jpg"
