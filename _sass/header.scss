@@ -7,7 +7,6 @@
   
   img {
   	margin: 0 auto;
-  	width: 400px;
   }
   /*
   Add transition to containers so they can push in and out.
@@ -88,6 +87,13 @@
       height: 3px;
       transition: all 0.2s linear;
     }
+  }
+}
+
+@media (max-width: 48em) {
+  .header img.pure-img {
+    margin-right: 1em;
+    margin-left: 3em;
   }
 }
 
