@@ -1,0 +1,9 @@
+$(document).ready(function(){
+  $("#menuLink").click(function(){
+    $("#vert-menu").toggle();
+  });
+  $("#vert-menu").hide();
+  $(".content").click(function(){
+    $("#vert-menu").hide();
+  });
+});

@@ -9,18 +9,66 @@
   	margin: 0 auto;
   	width: 400px;
   }
+  /*
+  Add transition to containers so they can push in and out.
+  */
+  .menu,
+  .menu-link {
+      -webkit-transition: all 0.2s ease-out;
+      -moz-transition: all 0.2s ease-out;
+      -ms-transition: all 0.2s ease-out;
+      -o-transition: all 0.2s ease-out;
+      transition: all 0.2s ease-out;
+  }
+  
+  .menu-link {
+      top: 0;
+      left: 0; /* "#menu width" */
+      background: #000;
+      background: rgba(0,0,0,0.7);
+      font-size: 10px; /* change this value to increase/decrease button size */
+      z-index: 10;
+      width: 3em;
+      height: auto;
+      padding: 1.6em 1.0em;
+      img {
+          position: relative;
+          display: block;
+          width: 2em;
+          height: 2em;
+      }
+  }
 
-  ul.menu {
+  .menu-link:hover,
+  .menu-link:focus {
+      background: #000;
+  }
+  
+  div#horizontal-menu ul.menu {
     @extend .pure-menu;
     @extend .pure-menu-horizontal;
     margin-top: 0px;
     margin-bottom: 0px;
+  }
 
+  div#vert-menu ul.menu {
+    @extend .pure-menu;
+    top: 3em;
+    left: 0; /* "#menu width" */
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: fixed;
+    z-index: 10;
+  }
+  
+  div ul.menu {
+    @extend .pure-menu-list;
     li {
       @extend .pure-menu-item;
       height: 40px;
       line-height: 40px;
       font-size: 14px;
+      background-color: #FFF;
       
       a {
         @extend .pure-menu-link;
@@ -43,3 +91,27 @@
   }
 }
 
+@media (min-width: 48em) {
+    .menu-link {
+      position: fixed;
+      display: none;
+    }
+    #horizontal-menu .menu {
+      display: block;
+    }
+    #vert-menu .menu {
+      display: none;
+    }
+}
+@media (max-width: 48em) {
+  .menu-link {
+    position: fixed;
+    display: block;
+  }
+  #horizontal-menu .menu {
+    display: none;
+  }
+  #vert-menu .menu {
+    display: block;
+  }
+}
