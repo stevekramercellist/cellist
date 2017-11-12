@@ -1,4 +1,4 @@
-![steve kramer &brvbar; cellist]({{ site.baseurl }}/images/SK_Cellist_logo.png)
+![steve kramer &brvbar; cellist]({{ site.baseurl }}/images/SK_Cellist_logo.png){: .pure-img}
 
 <a href="#menu" id="menuLink" class="menu-link">
   ![menu]({{ site.baseurl }}/images/hamburger-icon.png)
