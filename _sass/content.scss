@@ -39,7 +39,7 @@ th, td {
 .slideshow #slideshow {
   max-width: 100%;
   width: 100%;
-  height: 472px;
+  height: 400px;
   position: relative; 
   background-color: black;
   div {
@@ -50,13 +50,105 @@ th, td {
     bottom: 0px; 
     text-align: center;
     img {
-      position: absolute;
-      top: 0;
-      left: 0;
-      height: 472px;
+      height: 400px;
+      margin-left: auto;
+      margin-right: auto;
     }
   }
 }
+
+@media (max-width: 800px) {
+  .slideshow #slideshow {
+    height: 325px;
+    div img {
+      height: 325px;      
+    }
+  }
+}
+
+@media (max-width: 750px) {
+  .slideshow #slideshow {
+    height: 300px;
+    div img {
+      height: 300px;      
+    }
+  }
+}
+
+@media (max-width: 700px) {
+  .slideshow #slideshow {
+    height: 285px;
+    div img {
+      height: 285px;      
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  .slideshow #slideshow {
+    height: 240px;
+    div img {
+      height: 240px;      
+    }
+  }
+}
+
+@media (max-width: 550px) {
+  .slideshow #slideshow {
+    height: 220px;
+    div img {
+      height: 220px;      
+    }
+  }
+}
+
+@media (max-width: 500px) {
+  .slideshow #slideshow {
+    height: 204px;
+    div img {
+      height: 204px;      
+    }
+  }
+}
+
+@media (max-width: 450px) {
+  .slideshow #slideshow {
+    height: 183px;
+    div img {
+      height: 183px;      
+    }
+  }
+}
+
+@media (max-width: 400px) {
+  .slideshow #slideshow {
+    height: 163px;
+    div img {
+      height: 163px;      
+    }
+  }
+}
+
+
+@media (max-width: 320px) {
+  .slideshow #slideshow {
+    height: 130px;
+    div img {
+      height: 130px;      
+    }
+  }
+}
+
+
+@media (max-width: 300px) {
+  .slideshow #slideshow {
+    height: 122px;
+    div img {
+      height: 122px;      
+    }
+  }
+}
+
 
 .gallery { // Masonry container http://w3bits.com/css-masonry/ 
   background: #000;
