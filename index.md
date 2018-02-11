@@ -10,16 +10,16 @@ If you can wait and not be tired by waiting,
 Or being lied about, don't deal in lies,
 Or being hated, don't give way to hating,
 And yet don't look too good, nor talk too wise.
-
+{: .quote }
 If you can dream--and not make dreams your master,
 If you can think--and not make thoughts your aim,
 If you can meet with **TRIUMPH** and **DISASTER** and treat those two impostors just the same,
 If you can bear to hear the truth you've spoken twisted by knaves to make a trap for fools,
 Or watch the things you gave your life to, broken, and stoop and build 'em up with worn out tools,
-
+{: .quote }
 If you can make one heap of all your winnings and risk it on one turn of pitch-and-toss, and lose, and start again at your beginnings and never breathe a word about your loss,
 If you can force your heart and nerve and sinew to serve your turn long after they are gone, and so hold on when there is nothing in you except the **WILL** which says to them: "Hold on!"
-
+{: .quote }
 If you can talk with crowds and keep your virtue,
 Or walk with Kings--nor lose the common touch,
 If neither foes nor loving friends can hurt you,
