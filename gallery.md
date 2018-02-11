@@ -41,6 +41,7 @@ title: Gallery ‹ Steve Kramer Cellist
 {% include gimage.html url="/images/photos/Cellist-Teacher.jpg" description="" %}
 {% include gimage.html url="/images/photos/20151115_112137-e1456504518663.jpg" description="Tradition." %}
 {% include gimage.html url="/images/photos/Louisiana.JPG" description="Contemporary Museum of Louisiana, Denmark" %}
+{% include gimage.html url="/images/photos/Rachmaninoff_Duo.jpg" description="Rehearsal" %}
 {% include gimage.html url="/images/photos/Musicopia.jpg" 
    description="Playing classical music is a noble art. A powerful by-product of my teaching is when my pupils become teachers themselves." %}
 {% include gimage.html url="/images/photos/picture-6.jpg" 
