@@ -1,4 +1,5 @@
 * [Home]({{ site.baseurl }}{% link index.md %})
+* [Events]({{ site.baseurl }}{% link events.md %})
 * [Biography]({{ site.baseurl }}{% link biography.md %})
 * [Reviews]({{ site.baseurl }}{% link reviews.md %})
 * [Gallery]({{ site.baseurl }}{% link gallery.md %})
