@@ -17,10 +17,10 @@ layout: slideshow
 ## Recommendation Letters
 
 | [Maria del Pico Taylor]({{ site.baseurl }}{% link documents/maria.md %})  | [Download PDF](documents/Steve_Kramer_Recommendation_Maria.pdf){:download="MariadelPicoTaylor.pdf"} |
-| Krist Foundation       | [Download PDF](documents/Foundation_recommendation.pdf){:download="KristFoundation.pdf"} |
-| Sandra Miller          | [Download PDF](documents/Letter for Steve Kramer.pdf){:download="SandraMiller.pdf"} |
-| Musicopia              | [Download PDF](documents/Steve_Kramer_Musicopia_Recommendation.pdf){:download="Musicopia.pdf"} |
-| Testimonial            | [Download PDF](documents/Kramer.pdf){:download="Testimonial"} |
+| [Krist Foundation]({{ site.baseurl }}{% link documents/krist.md %})       | [Download PDF](documents/Foundation_recommendation.pdf){:download="KristFoundation.pdf"} |
+| [Sandra Miller]({{ site.baseurl }}{% link documents/miller.md %})          | [Download PDF](documents/Letter for Steve Kramer.pdf){:download="SandraMiller.pdf"} |
+| [Musicopia]({{ site.baseurl }}{% link documents/musicopia.md %})              | [Download PDF](documents/Steve_Kramer_Musicopia_Recommendation.pdf){:download="Musicopia.pdf"} |
+| [Testimonial]({{ site.baseurl }}{% link documents/testimonial.md %})            | [Download PDF](documents/Kramer.pdf){:download="Testimonial"} |
 
 </div>
 </div>
