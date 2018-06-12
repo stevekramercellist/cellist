@@ -16,7 +16,7 @@ layout: slideshow
 
 ## Recommendation Letters
 
-| Maria del Pico Taylor  | [Download PDF](documents/Steve_Kramer_Recommendation_Maria.pdf){:download="MariadelPicoTaylor.pdf"} |
+| [Maria del Pico Taylor]({{ site.baseurl }}{% link documents/maria.md %})  | [Download PDF](documents/Steve_Kramer_Recommendation_Maria.pdf){:download="MariadelPicoTaylor.pdf"} |
 | Krist Foundation       | [Download PDF](documents/Foundation_recommendation.pdf){:download="KristFoundation.pdf"} |
 | Sandra Miller          | [Download PDF](documents/Letter for Steve Kramer.pdf){:download="SandraMiller.pdf"} |
 | Musicopia              | [Download PDF](documents/Steve_Kramer_Musicopia_Recommendation.pdf){:download="Musicopia.pdf"} |
