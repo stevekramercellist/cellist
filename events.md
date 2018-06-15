@@ -17,8 +17,17 @@ Address      | **1901 Vine Street, Philadelphia, PA 19103**
 
 ## [Série de Concertos Internacionais - Duo Rachmaninoff]({{ site.baseurl }}{% link documents/ConcertosDuoRachmaninoff.md %})
 
-**July 7th 2018**
+**Saturday July 7th 2018**
+
+Presented By | **Ministério da Cultura**
+Cost         | **Free Event**
+Venue        | **Società Italiana de Piracicaba**
+Address      | **Rua Dom Pedro I, Central Piracicaba, Brazil**
 
 ## [Série de Masterclasses Internacionais - Masterclass Violoncelo]({{ site.baseurl }}{% link documents/masterclass.md %})
 
-**July 8th 2018**
+**Sunday July 8th 2018**
+
+Presented By | **Ministério da Cultura**
+Venue        | **Società Italiana de Piracicaba**
+Address      | **Rua Dom Pedro I, Central Piracicaba, Brazil**
