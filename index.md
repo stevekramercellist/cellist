@@ -24,9 +24,9 @@ layout: slideshow
 
 ## Past Performances
 
-April 22nd 2018 [Providence Chamber Orchestra]({{ site.baseurl }}{% link documents/PCO+April+2018+Poster.md %})  | [Download PDF](documents/PCO+April+2018+Poster.pdf){:download="PCO+April+2018+Poster.pdf"}
+**April 22nd 2018** [Providence Chamber Orchestra]({{ site.baseurl }}{% link documents/PCO+April+2018+Poster.md %})  | [Download PDF](documents/PCO+April+2018+Poster.pdf){:download="PCO+April+2018+Poster.pdf"}
 
-April 1st 2018 ["2Cellos” concert in Centre Theater spotlight on Easter Sunday](http://www.timesherald.com/arts-and-entertainment/20180330/2cellos-concert-in-centre-theater-spotlight-on-easter-sunday)
+**April 1st 2018** ["2Cellos” concert in Centre Theater spotlight on Easter Sunday](http://www.timesherald.com/arts-and-entertainment/20180330/2cellos-concert-in-centre-theater-spotlight-on-easter-sunday)
 
 </div>
 </div>
