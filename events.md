@@ -31,3 +31,17 @@ Address      | **Rua Dom Pedro I, Central Piracicaba, Brazil**
 Presented By | **Ministério da Cultura**
 Venue        | **Società Italiana de Piracicaba**
 Address      | **Rua Dom Pedro I, Central Piracicaba, Brazil**
+
+# Past Performances
+
+**April 22nd 2018** 
+
+[Providence Chamber Orchestra]({{ site.baseurl }}{% link documents/PCOApril2018Poster.md %})  [Download PDF](documents/PCOApril2018Poster.pdf){:download="PCOApril2018Poster.pdf"}
+
+**April 1st 2018** 
+
+["2Cellos” concert in Centre Theater spotlight on Easter Sunday](http://www.timesherald.com/arts-and-entertainment/20180330/2cellos-concert-in-centre-theater-spotlight-on-easter-sunday)
+
+**March 30th 2018**
+
+[Out Of The Darkness Into The Light]({{ site.baseurl }}{% link documents/HolocaustCantata.md %})
