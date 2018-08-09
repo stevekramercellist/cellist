@@ -78,6 +78,5 @@ title: Gallery ‹ Steve Kramer Cellist
 {% include gimage.html url="/images/photos/IMG-20180718-WA0057.jpg" description="Playing around with the 'Cavaquinho' and 'Acordeon', both national instruments of Brazil.  Accompanied by Prof. Taylor." %}
 {% include gimage.html url="/images/photos/IMG-20180710-WA0004.jpg" description="2018 concert tour in Brazil, portraying American and Danish music." %}
 {% include gimage.html url="/images/photos/IMG-20180716-WA0037.jpg" description="Visit at the English School in Pirracicaba, Brazil, advocating for the joy and importance of classical music." %}
-{% include gimage.html url="/images/photos/20180726_134343.jpg" description="The Internationally recognized Project &quot;Starving Artist Prevention&quot;.  Here in artistic collaboration with the young musicians of 'Luzes da Ribalta', in Brazil." %}
-{% include gimage.html url="/images/photos/Steve_11.jpg" description="The Internationally recognized Project &quot;Starving Artist Prevention&quot;.  Here in artistic collaboration with the young musicians of 'Luzes da Ribalta', in Brazil." %}
+{% include glink.html url="/images/photos/ribalta_brazil/collage.jpg" href="{% link ribalta.md %}" %}
 {% include gend.html %}
