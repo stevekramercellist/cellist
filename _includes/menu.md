@@ -1,6 +1,6 @@
 * [Home]({{ site.baseurl }}{% link index.md %})
-* [Entertainment]({{ site.baseurl }}{% link entertainment.md %})
 * [Biography]({{ site.baseurl }}{% link biography.md %})
+* [Entertainment]({{ site.baseurl }}{% link entertainment.md %})
 * [References]({{ site.baseurl }}{% link references.md %})
 * [Gallery]({{ site.baseurl }}{% link gallery.md %})
 * [Videos]({{ site.baseurl }}{% link videos.md %})
