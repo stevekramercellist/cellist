@@ -7,6 +7,8 @@ layout: sidebar
 
 ![Michael Shingo Crawford and Steve Kramer of Independence String Ensemble](/assets/images/independence.jpg)
 
+![Independence Duo](/assets/images/independence.jpg "Philadelphia's Magic Gardens")
+
 
 Established by cellist Steve Kramer and composer and violinist Michael Shingo Crawford, the Independence String Ensemble is a newly founded group which presents the highest-class performances, educational outreach, and master classes. The core ensemble, consisting of award-winning internationally acclaimed artists based in the United States, generates a string quartet and its subsets, which perform all styles and genres from the early renaissance to contemporary. The musicians collaborate with a wide range of artists, including pianists and wind players, who are accredited from the nation’s finest institutions. 
 
