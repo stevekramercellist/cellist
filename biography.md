@@ -24,3 +24,8 @@ An American immigrant since 2010, Steve Kramer now devotes all his time in the U
 Steve Kramer's artistic and educational collaborations also include having the honorable position of Director of Music at The Veterans Music and Arts School, a subsidiary of Vance Community Partners, Inc.,  The Veterans Music and Arts School provides artistic outlets for veterans and first responders and their families and fosters artistic talent among them.
 
 In addition, Steve Kramer provides performances and master classes in conjunction with Madam Tomoko Torii, the president/executive director and co-founder of the Harmony and Peace Foundation, which promotes world peace, focuses on making global and local societies better and seeks unity through cooperation.
+
+Steve Kramer is a member of the Independence String Ensemble, a newly founded group which presents the highest-class performances, educational outreach, and master classes. The core ensemble, consisting of award-winning internationally acclaimed artists based in the United States, generates a string quartet and its subsets, which perform all styles and genres from the early renaissance to contemporary. The musicians collaborate with a wide range of artists, including pianists and wind players, who are accredited from the nation’s finest institutions. 
+
+Independence String Ensemble's performance experiences have reached prestigious clients and the world-renowned concert halls, amongst them, Radio City Music Hall, Kimmel Center, MGM Grand, Barnes Foundation, Philadelphia Art Museum, Franklin Institute, Novo Nordisk A/S, Datwyler, and Valley Forge Tourism & Convention Board.
+
