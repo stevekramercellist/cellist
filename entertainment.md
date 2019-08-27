@@ -5,7 +5,7 @@ layout: sidebar
 # Entertainment
 ## Independence String Ensemble
 
-![Michael Shingo Crawford and Steve Kramer of Independence String Ensemble](/cellist/images/independence.jpg)
+![Michael Shingo Crawford and Steve Kramer of Independence String Ensemble](/images/independence.jpg)
 
 ![Independence Duo](stevekramercellist/cellist/assets/images/independence.jpg "Philadelphia's Magic Gardens")
 
