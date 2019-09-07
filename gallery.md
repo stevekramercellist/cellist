@@ -81,4 +81,6 @@ title: Gallery ‹ Steve Kramer Cellist
 {% include gimage.html url="/images/photos/IMG-20180710-WA0004.jpg" description="2018 concert tour in Brazil, portraying American and Danish music." %}
 {% include gimage.html url="/images/photos/IMG-20180716-WA0037.jpg" description="Visit at the English School in Pirracicaba, Brazil, advocating for the joy and importance of classical music." %}
 {% include glink.html url="/images/photos/ribalta_brazil/collage.jpg" href="ribalta.html"  description="The Internationally recognized Project &quot;Starving Artist Prevention&quot;.  Here in artistic collaboration with the young musicians of 'Luzes da Ribalta', in Brazil."  %}
+{% include gimage.html url="/images/photos/stevegallery5.jpg" 
+   description="Rachmaninoff Duo with my friend and partner in music, pianist Mikhail Yanovitsky" %}
 {% include gend.html %}
