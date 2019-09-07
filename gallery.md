@@ -83,4 +83,6 @@ title: Gallery ‹ Steve Kramer Cellist
 {% include glink.html url="/images/photos/ribalta_brazil/collage.jpg" href="ribalta.html"  description="The Internationally recognized Project &quot;Starving Artist Prevention&quot;.  Here in artistic collaboration with the young musicians of 'Luzes da Ribalta', in Brazil."  %}
 {% include gimage.html url="/images/photos/stevegallery5.jpg" 
    description="Rachmaninoff Duo with my friend and partner in music, pianist Mikhail Yanovitsky" %}
+   {% include gimage.html url="/images/photos/stevegallery6.jpg" 
+   description="Director of the Centre Theater" %}
 {% include gend.html %}
