@@ -9,6 +9,8 @@ title: Gallery ‹ Steve Kramer Cellist
    description="Violin lessons, three years old with my grandfather, Vladimir Yeshayavitch Novak" %}
 {% include gimage.html url="/images/photos/Vladimir_Kiev.jpg" 
    description="Vladimir Yeshayavitch Novak, a beloved and honored violin pedagogue and violinist in Kiev Philharmonic. Conducting the youth orchestra in the historic concert hall in the Khrestchaty Park in Kiev, Ukraine." %}
+{% include gimage.html url="/images/photos/stevegallery4.jpg" 
+   description="My grandfather Vladmir was a beloved and most respected violin pedagogue in Kiev, Ukraine and also a member of the Kiev Philharmonic. Here he is depicted with his colleagues and his dearest friend, Maestro Natan Rakhlin and composer Dmitri Shostakovich." %}
 {% include gimage.html url="/images/photos/003.jpg" description="" %}
 {% include gimage.html url="/images/photos/Martha_Steve1.jpg" description="" %}
 {% include gimage.html url="/images/photos/Martha_Steve.jpg"
