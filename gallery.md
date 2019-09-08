@@ -90,5 +90,5 @@ title: Gallery ‹ Steve Kramer Cellist
    {% include gimage.html url="/images/photos/stevegallery6.jpg" 
    description="Director of the Centre Theater" %}
    {% include gimage.html url="/images/photos/stevegallery1.jpg" 
-   description="Steve Kramer’s artistic and educational collaborations also include having the honorable position of Director of Music at The Veterans School for the Music and Arts, a subsidiary of Vance Community Partners, Inc. The Veterans School for the Music and Arts, with generous support from the Kal and Lucille Rudman Foundation. Here seen together with the music-loving and very funny "Kal"" %}
+   description="Steve Kramer’s artistic and educational collaborations also include having the honorable position of Director of Music at The Veterans School for the Music and Arts, a subsidiary of Vance Community Partners, Inc. The Veterans School for the Music and Arts, with generous support from the Kal and Lucille Rudman Foundation. Here seen together with the music-loving and very funny Solomon Kal Rudman" %}
 {% include gend.html %}
