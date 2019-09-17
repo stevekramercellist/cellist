@@ -1,8 +1,8 @@
 ---
-title: Entertainment ‹ Steve Kramer Cellist
+title: Steve Kramer Entertainment ‹ Steve Kramer Cellist
 layout: sidebar
 ---
-# Entertainment
+# Steve Kramer Entertainment
 ## Independence String Ensemble
 
 [//]: # (![Michael Shingo Crawford and Steve Kramer of Independence String Ensemble](/images/independenceweb.jpg))
