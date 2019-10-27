@@ -96,7 +96,7 @@ title: Gallery ‹ Steve Kramer Cellist
 {% include gimage.html url="/images/photos/yanovitsky.jpg" 
    description="Internationally acclaimed Rachaminoff Duo with Maestro Mikhail Yanovitsky at the piano." %}
    
-   {% include gimage.html url="/images/photos/theaternight.jpg" 
+{% include gimage.html url="/images/photos/theaternight.jpg" 
    description="Director of Music." %}
    
    
