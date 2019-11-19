@@ -5,4 +5,4 @@ layout: sidebar
 # The Centre Theater
 ## Director of Music
 
-Ladies and Gentlemen, you are cordially invited to visit the [Centre Theater's website](https://thecentretheater.com).
+Ladies and Gentlemen: you are cordially invited to visit the [Centre Theater's website](https://thecentretheater.com).
