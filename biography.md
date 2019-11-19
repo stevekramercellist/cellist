@@ -1,9 +1,8 @@
 ---
-title: Biography ‹ Steve Kramer Cellist
+title: The Centre Theater ‹ Steve Kramer Cellist
 layout: sidebar
 ---
-# Biography
-## Steve Kramer, a.k.a. ‘Stevushka’, cellist
+# The Centre Theater
+## Director of Music
 
-
-
+Ladies and Gentlemen, you are cordially invited to visit the [Centre Theater's website](https://thecentretheater.com).
