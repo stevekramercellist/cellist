@@ -9,7 +9,7 @@ layout: sidebar
 
 
 
-
+Edit
 
 Since becoming active as an international cellist and educator in the United States of America in 2010 and being sponsored in 2016 and 2019 for his extraordinary abilities as a musician, the enchanting and dexterous cellist, Steve Kramer, has proven to be one of the most prominent and colorful musicians of today, ascending into classical music’s highest class of performance and musical education. His silvery, singing tone, perspicacious intelligence, musical inquisitiveness and charismatic personality have led him to build memorable bridges to his audience while exploring versatile repertoire from the four corners of the world. His childhood experience studying the art of chamber music with Yehudi Menuhin and Peter Norris has most certainly contributed a significant element to his enlightening style and the invigorating and very expressive musical individuality that distinguishes his playing and teaching.
 
