@@ -16,5 +16,5 @@ In addition to the entertainment group's residency and music training programs, 
 
 The Steve Kramer Entertainment Group welcomes your generous donation-gifts of music instruments and accessories. If you are able to make a conribution, please contact Steve Kramer using the [contact form](http://stevekramercellist.com/contact.html). 
 
-Steve Kramer Entertainment Group's performance experiences have reached prestigious clients and the world-renowned concert halls, amongst them, the Highlands Mansion, Radio City Music Hall, Kimmel Center, MGM Grand, Barnes Foundation, Philadelphia Art Museum, Franklin Institute, Strawberry Mansions, Woodmere Art Museum, the National Constitution Center, Novo Nordisk A/S, Datwyler, and Valley Forge Tourism & Convention Board.
+Steve Kramer Entertainment Group's performance experiences have reached prestigious clients and the world-renowned concert halls, amongst them, the Highlands Mansion, Radio City Music Hall, Kimmel Center, MGM Grand, Barnes Foundation, Philadelphia Art Museum, Franklin Institute, Strawberry Mansions, Woodmere Art Museum, the National Constitution Center, Novo Nordisk A/S, Datwyler, and Valley Forge Tourism & Convention Board. 
 
