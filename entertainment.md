@@ -4,7 +4,7 @@ layout: sidebar
 ---
 # The Steve Kramer Entertainment Group
 
-![Radio City Music Hall](/images/photos/steveradiocity.jpg)
+![Radio City Music Hall](/images/photos/steveradiocity.jpg =300x300)
 
 The Steve Kramer Entertainment Group focuses on providing the highest class of entertainment and reaching underserved children in order to teach the importance and joy of classical music.
 
