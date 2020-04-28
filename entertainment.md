@@ -18,7 +18,7 @@ The Steve Kramer Entertainment Group welcomes your generous donation-gifts of mu
 
 Steve Kramer Entertainment Group's performance experiences have reached prestigious clients and the world-renowned concert halls, amongst them, the Highlands Mansion, Radio City Music Hall, Kimmel Center, MGM Grand, Barnes Foundation, Philadelphia Art Museum, Franklin Institute, Strawberry Mansions, Woodmere Art Museum, the National Constitution Center, Novo Nordisk A/S, Datwyler, and Valley Forge Tourism & Convention Board. 
 
-![Client Logos](/images/clientlogos.jpg =1500x883)
+![Client Logos](/images/clientlogos.jpg | width=1500 height=883)
 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/763572550&color=%23ffffff&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
