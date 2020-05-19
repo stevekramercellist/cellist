@@ -15,17 +15,20 @@ Sofia Leifer, violin
 ![Sofia Leifer](/images/sofia2.jpg "Sofia Leifer")
 
 Michael Leifer, viola and violin
+
 ![Michael Leifer](/images/leifer.jpg "Michael Leifer")
 
 Mikhail Yanovitsky, piano
+
 ![Mikhail Yanovitsky](/images/yanovitsky.jpg "Mikhail Yanovitsky")
 
 Tom Lawton, jazz piano
+
 ![Tom Lawton](/images/lawton.png "Tom Lawton")
 
 Michael Shingo Crawford, composition and music theory
-![Michael Shingo Crawford](/images/michaelshingo.jpg "Michael Shingo Crawford")
 
+![Michael Shingo Crawford](/images/michaelshingo.jpg "Michael Shingo Crawford")
 
 
 My partners in music, known as the Steve Kramer Entertainment Group, are an outstanding team of soloists and educators who help to build music programs, bringing interactive music education and performances to students. The ensemble generates a string quartet and its subsets, which perform all styles and genres from the early renaissance to contemporary. The musicians collaborate with a wide range of artists, including pianists and wind players, who are accredited from the nation’s finest institutions.
