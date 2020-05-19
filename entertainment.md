@@ -15,10 +15,13 @@ Sofia Leifer, violin
 ![Sofia Leifer](/images/sofia2.jpg "Sofia Leifer")
 
 Michael Leifer, viola and violin
+![Michael Leifer](/images/leifer.jpg "Michael Leifer")
 
 Mikhail Yanovitsky, piano
+![Mikhail Yanovitsky](/images/yanovitsky.jpg "Mikhail Yanovitsky")
 
 Tom Lawton, jazz piano
+![Tom Lawton](/images/yanovitsky.jpg "Mikhail Yanovitsky")
 
 Michael Shingo Crawford, composition and music theory
 
