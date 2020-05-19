@@ -12,9 +12,10 @@ The Steve Kramer Entertainment Group provides a roster of nearly all different c
 
 Sofia Leifer, violin
 
-(/images/sofia2.jpg)
+![Sofia Leifer](/images/sofia2.jpg "Sofia Leifer")
+	add link [Youtube](https://www.youtube.com/channel/UCYGBYaZZxIEQeq6VJqK83PA/videos). 
 
-https://www.youtube.com/channel/UCYGBYaZZxIEQeq6VJqK83PA/videos
+
 
 Michael Leifer, viola and violin
 
