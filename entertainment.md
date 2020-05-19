@@ -21,9 +21,10 @@ Mikhail Yanovitsky, piano
 ![Mikhail Yanovitsky](/images/yanovitsky.jpg "Mikhail Yanovitsky")
 
 Tom Lawton, jazz piano
-![Tom Lawton](/images/yanovitsky.jpg "Mikhail Yanovitsky")
+![Tom Lawton](/images/lawton.png "Tom Lawton")
 
 Michael Shingo Crawford, composition and music theory
+![Michael Shingo Crawford](/images/michaelshingo.jpg "Michael Shingo Crawford")
 
 
 
