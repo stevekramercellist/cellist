@@ -14,7 +14,7 @@ The Steve Kramer Entertainment Group provides a roster of nearly all different c
 
 ![Sofia Leifer](/images/sofia2.jpg "Sofia Leifer")
 
-##Michael Leifer, viola and violin
+## Michael Leifer, viola and violin
 
 ![Michael Leifer](/images/leifer.jpg "Michael Leifer")
 
