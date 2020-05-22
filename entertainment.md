@@ -10,23 +10,23 @@ The Steve Kramer Entertainment Group focuses on providing the highest class of e
 
 The Steve Kramer Entertainment Group provides a roster of nearly all different configurations of ensembles bringing together the country's best musicians, educators, and composers. To contact the artists, please use the following [form](http://stevekramercellist.com/contact.html).
 
-## Sofia Leifer, violin
+## [Sofia Leifer, violin](http://stevekramercellist.com/sofialeifer.html)   
 
 ![Sofia Leifer](/images/sofia2.jpg "Sofia Leifer")
 
-## Michael Leifer, viola and violin
+## [Michael Leifer, viola and violin](http://stevekramercellist.com/leifer.html)
 
 ![Michael Leifer](/images/leifer.jpg "Michael Leifer")
 
-## Mikhail Yanovitsky, piano
+## [Mikhail Yanovitsky, piano](http://stevekramercellist.com/yanovitsky.html)
 
 ![Mikhail Yanovitsky](/images/yanovitsky.jpg "Mikhail Yanovitsky")
 
-## Tom Lawton, jazz piano
+## [Tom Lawton, jazz piano](http://stevekramercellist.com/lawton.html)
 
 ![Tom Lawton](/images/lawton.png "Tom Lawton")
 
-## Michael Shingo Crawford, composition and music theory
+## [Michael Shingo Crawford, composition and music theory](http://stevekramercellist.com/michaelshingo.html)
 
 ![Michael Shingo Crawford](/images/michaelshingo.jpg "Michael Shingo Crawford")
 
