@@ -10,7 +10,7 @@ layout: sidebar
 
 The Steve Kramer Entertainment Group focuses on providing the highest class of entertainment and also reaching underserved children in order to teach the importance and joy of classical music.
 
-The Steve Kramer Entertainment Group provides a roster of nearly all different configurations of ensembles bringing together the country's best musicians, educators, and composers. To contact the artists, please use the following [form](http://stevekramercellist.com/contact.html).
+The Steve Kramer Entertainment Group provides a roster of nearly all different configurations of ensembles bringing together the country's best musicians, educators, and composers. The musicians are available to be hired for solo performances and private recitals. To contact the artists, please have your clients use the following [form](http://stevekramercellist.com/contact.html).
 
 ## [Sofia Leifer, violin](http://stevekramercellist.com/sofialeifer.html)   
 
