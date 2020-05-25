@@ -19,20 +19,15 @@ Yanovitsky has won numerous awards. In 1998, after winning Astral artistic Servi
 
 Since 1994 he has been regularly performing in Russia, including the Saint-Petersburg Philharmonic Halls, the Rachmaninoff and Small Halls of the Moscow Conservatory, the Scriabin Museum in Moscow, and the House of Architects, as well as the new Mariinsky Concert Hall in Saint-Petersburg.
 
-In 2001, Steinway & Sons named Yanovitsky a “Steinway Artist.”
-
 Currently, Dr. Yanovitsky teaches piano at Temple University.
 
-Critics around the world have praised Mikhail Yanovitsky as one of today’s leading artists:
 
-“Particularly striking was the sound: big without brutality, rich but always clear in focus” (New York Times)
 
-“His ability to execute the details while at the same time clothing the music in broad colors and expansive melodic gesture recalled a manner of Chopin playing from past generations” (The Philadelphia Inquirer)
+Critical Acclaim
 
-“Yanovitsky will become one of the great piano talents of our time” (Duluth News-Tribune)
-
-“Yanovitsky has the gift to make each piece a unique work of art” (El Norte, Monterrey, Mexico)
-
-“Rarely does one leave a concert hall in such an elated mood as provokes the performance of Mikhail Yanovitsky… he is a true master.” (El Porvenir, Monterrey, Mexico)
-
-“Through his performance of Liszt and Scriabin, Mikhail Yanovitsky established a higher caliber of music- making” (Starnberger SZ, Germany)
+* “Particularly striking was the sound: big without brutality, rich but always clear in focus” (New York Times)
+* “His ability to execute the details while at the same time clothing the music in broad colors and expansive melodic gesture recalled a manner of Chopin playing from past generations” (The Philadelphia Inquirer)
+* “Yanovitsky will become one of the great piano talents of our time” (Duluth News-Tribune)
+* “Yanovitsky has the gift to make each piece a unique work of art” (El Norte, Monterrey, Mexico)
+* “Rarely does one leave a concert hall in such an elated mood as provokes the performance of Mikhail Yanovitsky… he is a true master.” (El Porvenir, Monterrey, Mexico)
+* “Through his performance of Liszt and Scriabin, Mikhail Yanovitsky established a higher caliber of music- making” (Starnberger SZ, Germany)
