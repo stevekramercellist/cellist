@@ -17,10 +17,10 @@ Sofie Leifer is a winner of first prizes in the following national and internati
 	• II Concurso Musical Rotary Club Marbella
 
 Soloist experience:
-	•	“Moscow Virtuosi” conducted by V.Spivakov, (Moscow, Russia)
-	•	“Big Symphony Orchestra” (BSO) with V.Fedoseev (Moscow, Russia)
-	•	Mariinsky’s Theatre Orchestra (St. Petersburg, Russia) 
-	•	“Real Orquesta Sinfónica de Sevilla” (ROSS) (Seville, Spain)                                
+* “Moscow Virtuosi” conducted by V.Spivakov, (Moscow, Russia)
+* “Big Symphony Orchestra” (BSO) with V.Fedoseev (Moscow, Russia)
+* Mariinsky’s Theatre Orchestra (St. Petersburg, Russia) 
+* “Real Orquesta Sinfónica de Sevilla” (ROSS) (Seville, Spain)                                
 
 Performance stages:
 	•	Tchaikovsky Concert Hall (Moscow, Russia)
