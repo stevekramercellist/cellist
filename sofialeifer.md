@@ -11,10 +11,10 @@ Sofie Leifer was born in 2005 to a family of musicians in Copenhagen, Denmark. S
 Currently, Sofie is under the tutelage of Prof. Zakhar Bron In “Z.Bron Academy “ in Interlaken (Switzerland).
 Sofie Leifer is a winner of first prizes in the following national and international competitions:
 
-	• XIV Wieniawski-Lipinski International Competition in Lublin (Poland)
-	• XVII International Television Contest “Nutcracker” in Moscow (Russia)
-	• XIII International Competition “Young Virtuosos” in Sofia (Bulgaria)
-	• II Concurso Musical Rotary Club Marbella
+* XIV Wieniawski-Lipinski International Competition in Lublin (Poland)
+* XVII International Television Contest “Nutcracker” in Moscow (Russia)
+* XIII International Competition “Young Virtuosos” in Sofia (Bulgaria)
+* II Concurso Musical Rotary Club Marbella
 
 Soloist experience:
 * “Moscow Virtuosi” conducted by V.Spivakov, (Moscow, Russia)
@@ -23,8 +23,8 @@ Soloist experience:
 * “Real Orquesta Sinfónica de Sevilla” (ROSS) (Seville, Spain)                                
 
 Performance stages:
-	•	Tchaikovsky Concert Hall (Moscow, Russia)
-	•	Svetlanovsky Concert Hall (Moscow, Russia)
-	•	Berliner Philharmonie Hall (Berlin, Germany)
-	•	Mariinsky Theatre-2 (St. Petersburg, Russia)
-	•	“La Maestranza’s Theatre” (Seville, Spain)
+* Tchaikovsky Concert Hall (Moscow, Russia)
+* Svetlanovsky Concert Hall (Moscow, Russia)
+* Berliner Philharmonie Hall (Berlin, Germany)
+* Mariinsky Theatre-2 (St. Petersburg, Russia)
+* “La Maestranza’s Theatre” (Seville, Spain)
