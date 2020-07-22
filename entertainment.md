@@ -12,27 +12,6 @@ The Steve Kramer Entertainment Group focuses on providing the highest class of e
 
 The Steve Kramer Entertainment Group provides a roster of nearly all different configurations of ensembles bringing together the country's best musicians, educators, and composers. The musicians are available to be hired for solo performances and private recitals. To contact the artists, please have your clients use the following [form](http://stevekramercellist.com/contact.html).
 
-## [Sofia Leifer, violin](http://stevekramercellist.com/sofialeifer.html)   
-
-![Sofia Leifer](/images/sofia2.jpg "Sofia Leifer")
-
-## [Michael Leifer, viola and violin](http://stevekramercellist.com/leifer.html)
-
-![Michael Leifer](/images/leifer.jpg "Michael Leifer")
-
-## [Mikhail Yanovitsky, piano](http://stevekramercellist.com/yanovitsky.html)
-
-![Mikhail Yanovitsky](/images/yanovitsky.jpg "Mikhail Yanovitsky")
-
-## [Tom Lawton, jazz piano](http://stevekramercellist.com/lawton.html)
-
-![Tom Lawton](/images/lawton.png "Tom Lawton")
-
-## [Michael Shingo Crawford, composition and music theory](http://stevekramercellist.com/michaelshingo.html)
-
-![Michael Shingo Crawford](/images/michaelshingo.jpg "Michael Shingo Crawford")
-
-
 My partners in music, known as the Steve Kramer Entertainment Group, are an outstanding team of soloists and educators who help to build music programs, bringing interactive music education and performances to students. The ensemble generates a string quartet and its subsets, which perform all styles and genres from the early renaissance to contemporary. The musicians collaborate with a wide range of artists, including pianists and wind players, who are accredited from the nation’s finest institutions.
 
 In addition to the entertainment group's residency and music training programs, the artists involved offer in-school performance opportunities and private lectures and lessons in performance, music theory, and composition.
