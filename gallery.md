@@ -60,6 +60,10 @@ title: Gallery ‹ Steve Kramer Cellist
    description="My American master class debut. Instructing Kevyn, Ben and Pat at the Mitchell Performing Arts Center in Bryn Athen." %}
 {% include gimage.html url="/images/photos/DSC_0069.jpg" 
    description="My American master class debut. Instructing Kevyn, Ben and Pat at the Mitchell Performing Arts Center in Bryn Athen." %}
+   
+{% include gimage.html url="/images/photos/cellostudent2.jpg" 
+   description="desciption." %}
+   
 {% include gimage.html url="/images/photos/picture-5.jpg" 
    description="An artistic collaboration with one of my dear friends, violinist Raymond Taylor who knew Ivan Galamian and Frank Sinatra. The photo was made following an amazing World War II commemoration event. A dozen Soviet hero’s of WWII were honored. It is certainly one of the most honorable moments in my life. My grandfather on my mother’s side was also a World War II hero, wounded three times and a survivor of the battle for Berlin." %}
 {% include gimage.html url="/images/photos/20161022_144916_Burst01-1.jpg" 
