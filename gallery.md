@@ -6,9 +6,9 @@ title: Gallery ‹ Steve Kramer Cellist
 {% include gimage.html url="/images/photos/01framed.jpg" 
    description="My grandfather on my mother’s side was also a World War II hero, wounded three times and a survivor of the battle for Berlin." %}
 {% include gimage.html url="/images/photos/02cropped.jpg" 
-   description="No description." %}
+   description="Mother and grandmother." %}
 {% include gimage.html url="/images/photos/03cropped.jpg" 
-   description="The Sound of music in a very young age." %}
+   description="Travelling nationwide and internationally sharing the joy and importance of classical music as part of educational outreach." %}
 {% include gimage.html url="/images/photos/013.jpg" 
    description="The Sound of music in a very young age." %}
 {% include gimage.html url="/images/photos/Dedushka_3_years_Steve1.jpg" 
