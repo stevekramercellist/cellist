@@ -3,6 +3,8 @@ title: Gallery ‹ Steve Kramer Cellist
 ---
 {% include gstart.html %}
 
+{% include gimage.html url="/images/photos/01croppedtransparent.jpg" 
+   description="The Sound of music in a very young age." %}
 {% include gimage.html url="/images/photos/013.jpg" 
    description="The Sound of music in a very young age." %}
 {% include gimage.html url="/images/photos/Dedushka_3_years_Steve1.jpg" 
