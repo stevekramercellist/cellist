@@ -7,8 +7,6 @@ title: Gallery ‹ Steve Kramer Cellist
    description="My grandfather on my mother’s side was also a World War II hero, wounded three times and a survivor of the battle for Berlin." %}
 {% include gimage.html url="/images/photos/02cropped.jpg" 
    description="Mother and grandmother." %}
-{% include gimage.html url="/images/photos/03cropped.jpg" 
-   description="Travelling nationwide and internationally sharing the joy and importance of classical music as part of educational outreach." %}
 {% include gimage.html url="/images/photos/013.jpg" 
    description="The Sound of music in a very young age." %}
 {% include gimage.html url="/images/photos/Dedushka_3_years_Steve1.jpg" 
@@ -46,6 +44,8 @@ title: Gallery ‹ Steve Kramer Cellist
 {% include gimage.html url="/images/photos/20151119_110159.jpg" 
    description="Bringing music to disadvantaged children through Musicopia" %}
 {% include gimage.html url="/images/photos/Cellist.jpg" description="Musicopia." %}
+{% include gimage.html url="/images/photos/03cropped.jpg" 
+   description="Travelling nationwide and internationally sharing the joy and importance of classical music as part of educational outreach." %}
 {% include gimage.html url="/images/photos/Cellist-Teacher.jpg" description="" %}
 {% include gimage.html url="/images/photos/20151115_112137-e1456504518663.jpg" description="Tradition." %}
 {% include gimage.html url="/images/photos/Louisiana.JPG" description="Contemporary Museum of Louisiana, Denmark" %}
