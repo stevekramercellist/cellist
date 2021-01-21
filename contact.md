@@ -8,8 +8,8 @@ layout: sidebar
 **Steve Kramer** \\
 E-mail: [stevekramermusic@gmail.com](mailto:stevekramermusic@gmail.com) 
 
-[Facebook](https://www.facebook.com/steve.kramer.792303)
-[Instagram](https://www.instagram.com/stevekramercellist/)
+[Facebook](https://www.facebook.com/steve.kramer.792303) | 
+[Instagram](https://www.instagram.com/stevekramercellist/) | 
 [LinkedIn](https://www.linkedin.com/public-profile/in/steve-kramer-a3443b1a6?challengeId=AQHZQOy_XqKhkgAAAXcmUwf5Fq6LGcdtFH0zRMYLr_H4jlVlGFkwlUMzfYQwNR9EX4OfnWoZA3FgSavnSOqGNqMg8V26cY0QOA&submissionId=5148fd64-8854-5c16-22ea-6517f578c767)
 
 
