@@ -8,7 +8,10 @@ layout: sidebar
 **Steve Kramer** \\
 E-mail: [stevekramermusic@gmail.com](mailto:stevekramermusic@gmail.com) 
 
-Facebook: [steve.kramer](https://www.facebook.com/steve.kramer.792303)
+[Facebook](https://www.facebook.com/steve.kramer.792303)
+[Instagram](https://www.instagram.com/stevekramercellist/)
+[LinkedIn](linkedin.com)
+
 
 Curriculum vitae: [Steve Kramer]({{ site.baseurl }}/documents/Steve-Kramer-CV.pdf){:download="Steve-Kramer-CV.pdf"}
 ## Advisors
