@@ -27,7 +27,7 @@ description="My dearest mother at piano examination in adolescence." %}
 description="Vladimir Yeshayavitch Novak during the numerous student recitals in our home, surrounded by children and youth of all ages from immigrant families." %}
 
 
-{% include gimage.html url="/images/photos/003.jpg" description="" %}
+{% include gimage.html url="/images/photos/003edit.jpg" description="" %}
 {% include gimage.html url="/images/photos/Martha_Steve1.jpg" description="" %}
 {% include gimage.html url="/images/photos/Martha_Steve.jpg"
    description="The shortest distance between people, is the smile. ~ Victor Borge." %}
