@@ -4,7 +4,7 @@ layout: sidebar
 ---
 # The Steve Kramer Entertainment Group
 
-![Radio City Music Hall](/images/photos/steveradiocity2.jpg)
+![Radio City Music Hall](/images/photos/radiocityedited.jpg)
 
 <a href="https://www.gigsalad.com/steve_kramer_philadelphia"><img src="https://cress.gigsalad.com/images/svg/standalone/promokit-links/read-reviews/read-reviews--our.svg" alt="Read Our Reviews on GigSalad" height="100" width="300"></a>
 
