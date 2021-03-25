@@ -38,6 +38,7 @@ description="" %}
 {% include gimage.html url="/images/photos/005.jpg" 
    description="After a practice session at the Hochschule fur Musik-Detmold, Germany. My teacher was the phenominal cellist, Karine Georgian." %}
 {% include gimage.html url="/images/photos/pope.jpg" description="Meeting Pope John Paul II, Orvieto, Italy." %}
+
 {% include gimage.html url="/images/photos/010.jpg" description="" %}
 {% include gimage.html url="/images/photos/002.jpg" 
    description="Following a recital at a friend’s lighthouse in Dungeness, England." %}
@@ -59,7 +60,7 @@ description="" %}
    description="Chamber music derives partly from an old German tradition. I am passionately continuing this tradition in the United States." %}
   
   {% include gimage.html url="/images/photos/nycgroupmuse.JPG" 
-description="After recital in artistic collaboration with composer, Michael Shingo Crawford." %}
+description="After recital in artistic collaboration with composer, Michael Shingo Crawford, in New York City." %}
    
 {% include gimage.html url="/images/photos/picture-2.jpg" 
    description="A performance that floored the audience." %}
