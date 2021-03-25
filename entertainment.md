@@ -6,6 +6,8 @@ layout: sidebar
 
 ![Radio City Music Hall](/images/photos/steveradiocity2.jpg)
 
+<a href="https://www.gigsalad.com/steve_kramer_philadelphia"><img src="https://cress.gigsalad.com/images/svg/standalone/promokit-links/read-reviews/read-reviews--our.svg" alt="Read Our Reviews on GigSalad" height="100" width="300"></a>
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/763572550&color=%23ffffff&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 The Steve Kramer Entertainment Group focuses on providing the highest class of entertainment and also reaching underserved children in order to teach the importance and joy of classical music.
