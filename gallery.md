@@ -53,6 +53,9 @@ description="Vladimir Yeshayavitch Novak during the numerous student recitals in
    description="Following a recital at a friend’s lighthouse in Dungeness, England." %}
 {% include gimage.html url="/images/photos/untitled-1-of-1-4-21.jpg" description="" %}
 {% include gimage.html url="/images/photos/DSC_01843-0051.jpg" description="" %}
+{% include gimage.html url="/images/photos/spainedit.jpg" 
+description="Solo recital, Andalusia, Almuñécar." %}
+
 {% include gimage.html url="/images/photos/DSC_0037.NEF-0031.jpg" description="" %}
 {% include gimage.html url="/images/photos/20151119_110159.jpg" 
    description="Bringing music to disadvantaged children through Musicopia" %}
