@@ -43,7 +43,7 @@ description="Vladimir Yeshayavitch Novak during the numerous student recitals in
 {% include gimage.html url="/images/photos/bengtsson.JPG" 
    description="In the home of the legendary Scandinavian cellist, my first former cello teacher, Erling Blöndal Bengtsson. He was accepted by Gregor Piatigorsky as a student at the Curtis Institute of Music at the age of sixteen, his first assistant and also teacher at Curtis." %}
 {% include gimage.html url="/images/photos/012.jpg" 
-   description="Yehudi Menuhin School years. Addicted to grand musicians such as violionist Yehudi Menuhin, pianist and composer and chamber music teacher Peter Norris, cellist Alexander Chausian and candy!" %}
+   description="Yehudi Menuhin School years. In company with grand musicians such as violinist Yehudi Menuhin, pianist and composer and chamber music teacher Peter Norris, cellist Alexander Chausian and in love with candy!" %}
 {% include gimage.html url="/images/photos/005.jpg" 
    description="After a practice session at the Hochschule fur Musik-Detmold, Germany. My teacher was the phenominal cellist, Karine Georgian." %}
 {% include gimage.html url="/images/photos/pope.jpg" description="Meeting Pope John Paul II, Orvieto, Italy." %}
