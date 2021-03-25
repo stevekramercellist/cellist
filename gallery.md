@@ -129,6 +129,9 @@ description="After recital in artistic collaboration with composer, Michael Shin
     
 {% include gimage.html url="/images/photos/esti1.JPG" 
 description="Esti." %}    
+
+{% include gimage.html url="/images/photos/kolnidre.JPG" 
+description="Kol Nidre at the Beth Am Synagogue." %}
    
   
 {% include gend.html %}
