@@ -2,7 +2,8 @@
 title: Gallery ‹ Steve Kramer Cellist
 ---
 {% include gstart.html %}
-
+{% include gimage.html url="/images/photos/grandmother.jpg" 
+description="" %}
 {% include gimage.html url="/images/photos/01framed2.jpg" 
    description="My grandfather on my mother’s side was also a World War II hero, wounded three times and a survivor of the battle for Berlin." %}
  {% include gimage.html url="/images/photos/grandparents.jpg" 
@@ -30,8 +31,8 @@ title: Gallery ‹ Steve Kramer Cellist
    description="My father working me hard prior to an adventurous travel to England to audition for a spot at The Yehudi Menuhin School. My father is a musician, one whom I had the good fortune to learn from and work with. I remember him barely practicing the violin, always working and drawing, painting and sculpting unconditionally. He played the violin with excellent phrasing and was one of the finest violinists I have ever encountered. As he got older, the sweetness of his singing tone tore me up. A true artist." %}
 {% include gimage.html url="/images/photos/009.jpg" 
    description="A very confident boy prior to beginning studies at The Yehudi Menuhin School." %}
-{% include gimage.html url="/images/photos/Master_Pupil1.jpg" 
-   description="In the home of the legendary Scandinavian cellist, my first former cello teacher, Erling Blöndal Bengtsson. He was accepted by Gregor Piatigorsky as a student at the Curtis Institute of Music at the age of sixteen." %}
+{% include gimage.html url="/images/photos/bengtsson.JPG" 
+   description="In the home of the legendary Scandinavian cellist, my first former cello teacher, Erling Blöndal Bengtsson. He was accepted by Gregor Piatigorsky as a student at the Curtis Institute of Music at the age of sixteen, his first assistant and also teacher at Curtis." %}
 {% include gimage.html url="/images/photos/012.jpg" 
    description="Yehudi Menuhin School years. Addicted to grand musicians such as violionist Yehudi Menuhin, pianist and composer and chamber music teacher Peter Norris, cellist Alexander Chausian and candy!" %}
 {% include gimage.html url="/images/photos/005.jpg" 
