@@ -126,6 +126,9 @@ description="After recital in artistic collaboration with composer, Michael Shin
    description="Independence String Ensemble performs at the New Age Adult Day Care Center. Sharing my innate love and joy for classical and popular music composed in America and providing the highest class of entertainment to the elderly and infirm: this is without a doubt the most honorable and noble of missions in my professional life with the cello in hand." %}
    {% include gimage.html url="/images/photos/stevemarathon.jpg" description="Marathon fever!" %}
     {% include gimage.html url="/images/photos/jenniferhigdonfilter.jpg" description="With my dear friends in life, Jennifer Higdon and Michael Shingo Crawford, following a great performance of Jennifer Higdon's Nocturne for cello and piano, with Michael Shingo Crawford at the piano. Working with contemporary composers is a cornerstone of my musical life, and the International Contemporary Composers Festival of North America, a collaboration with composers on a global scale, is a testament to that." %}
+    
+{% include gimage.html url="/images/photos/esti1.JPG" 
+description="Esti." %}    
    
   
 {% include gend.html %}
