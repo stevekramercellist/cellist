@@ -22,6 +22,11 @@ description="My dearest mother at piano examination in adolescence." %}
    description="Vladimir Yeshayavitch Novak, a beloved and honored violin pedagogue and violinist in Kiev Philharmonic. Conducting the youth orchestra in the historic concert hall in the Khrestchaty Park in Kiev, Ukraine." %}
 {% include gimage.html url="/images/photos/stevegallery4.jpg" 
    description="My grandfather Vladmir was a beloved and most respected violin pedagogue in Kiev, Ukraine and also a member of the Kiev Philharmonic. Here he is depicted with his colleagues and his dearest friend, Maestro Natan Rakhlin and composer Dmitri Shostakovich." %}
+   
+   {% include gimage.html url="/images/photos/vladimir.JPG" 
+description="Vladimir Yeshayavitch Novak during the numerous student recitals in our home, surrounded by children and youth of all ages from immigrant families." %}
+
+
 {% include gimage.html url="/images/photos/003.jpg" description="" %}
 {% include gimage.html url="/images/photos/Martha_Steve1.jpg" description="" %}
 {% include gimage.html url="/images/photos/Martha_Steve.jpg"
