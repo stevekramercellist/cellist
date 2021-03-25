@@ -57,6 +57,10 @@ description="" %}
    description="Playing classical music is a noble art. A powerful by-product of my teaching is when my pupils become teachers themselves." %}
 {% include gimage.html url="/images/photos/picture-6.jpg" 
    description="Chamber music derives partly from an old German tradition. I am passionately continuing this tradition in the United States." %}
+  
+  {% include gimage.html url="/images/photos/nycgroupmuse.JPG" 
+description="After recital in artistic collaboration with composer, Michael Shingo Crawford." %}
+   
 {% include gimage.html url="/images/photos/picture-2.jpg" 
    description="A performance that floored the audience." %}
 {% include gimage.html url="/images/photos/DSC_0095.jpg" 
