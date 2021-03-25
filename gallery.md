@@ -3,7 +3,7 @@ title: Gallery ‹ Steve Kramer Cellist
 ---
 {% include gstart.html %}
 {% include gimage.html url="/images/photos/grandmother.jpg" 
-description="" %}
+description="Rita. Grandmother, 'Babushka.'" %}
 {% include gimage.html url="/images/photos/01framed2.jpg" 
    description="My grandfather on my mother’s side was also a World War II hero, wounded three times and a survivor of the battle for Berlin." %}
  {% include gimage.html url="/images/photos/grandparentsupdate.jpg" 
