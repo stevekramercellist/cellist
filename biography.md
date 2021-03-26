@@ -4,7 +4,7 @@ layout: sidebar
 ---
 
 # Biography
-## Steve Kramer, cellist ('Stevushka’)
+## Steve Kramer, cellist ('Stevachka’)
 
 
 
