@@ -21,7 +21,7 @@ Steve Kramer Entertainment Group's performance experiences have reached prestigi
 The Steve Kramer Entertainment Group welcomes your generous donation-gifts of music instruments and accessories. If you are able to make a conribution, please contact Steve Kramer using the [contact form](http://stevekramercellist.com/contact.html). 
  
  
- ## Our Reviews
+## Our Reviews
 
  <a href="https://www.gigsalad.com/steve_kramer_philadelphia#reviews"><img src="https://www.gigsalad.com/profile/reviews-badge/160790/normal/blue" alt="Reviews on GigSalad" height="128" width="108"></a>
  
