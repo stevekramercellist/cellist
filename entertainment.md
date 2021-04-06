@@ -23,7 +23,7 @@ The Steve Kramer Entertainment Group welcomes your generous donation-gifts of mu
  
 ## Our Reviews
 
- <a href="https://www.gigsalad.com/steve_kramer_philadelphia#reviews"><img src="https://www.gigsalad.com/profile/reviews-badge/160790/normal/blue" alt="Reviews on GigSalad" class="center" height="128" width="108"></a>
+ <a href="https://www.gigsalad.com/steve_kramer_philadelphia#reviews"><img src="https://www.gigsalad.com/profile/reviews-badge/160790/normal/blue" alt="Reviews on GigSalad" class="center2" height="128" width="108"></a>
  
 
 ## Our Clients
