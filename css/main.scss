@@ -6,3 +6,11 @@
 @import "grids-responsive-min";
 @import "header";
 @import "content"; 
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
