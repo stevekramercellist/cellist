@@ -154,6 +154,7 @@ description="Kol Nidre at the Beth Am Synagogue." %}
 
 {% include gimage.html url="/images/photos/recital.jpg" 
 description="Tradition." %}
+
  {% include gimage.html url="/images/photos/annasteve.jpg" 
 description="" %}
    
