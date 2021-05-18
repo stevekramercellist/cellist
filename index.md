@@ -9,6 +9,6 @@ layout: slideshow
 — Sergei Rachmaninoff
 {: .attribution }
 
-[Curriculum Vitae](documents/Steve-Kramer-CV.pdf)
+[Curriculum Vitae][Steve Kramer]({{ site.baseurl }}/documents/Steve-Kramer-CV.pdf){:download="Steve-Kramer-CV.pdf"}
 {: .center }
 
