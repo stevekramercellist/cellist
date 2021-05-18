@@ -27,6 +27,10 @@ description="My dearest mother at piano examination in adolescence." %}
 description="Vladimir Yeshayavitch Novak during the numerous student recitals in our home, surrounded by children and youth of all ages from immigrant families." %}
 
 
+
+
+
+
 {% include gimage.html url="/images/photos/003edit.jpg" description="" %}
 {% include gimage.html url="/images/photos/Martha_Steve1.jpg" description="" %}
 {% include gimage.html url="/images/photos/Martha_Steve.jpg"
@@ -90,6 +94,11 @@ description="After recital in artistic collaboration with composer, Michael Shin
    
 {% include gimage.html url="/images/photos/picture-5.jpg" 
    description="An artistic collaboration with one of my dear friends, violinist Raymond Taylor who knew Ivan Galamian and Frank Sinatra. The photo was made following an amazing World War II commemoration event. A dozen Soviet hero’s of WWII were honored. It is certainly one of the most honorable moments in my life. My grandfather on my mother’s side was also a World War II hero, wounded three times and a survivor of the battle for Berlin." %}
+   
+      {% include gimage.html url="/images/photos/stevedudamel.JPG" 
+description="Steve Kramer arranging visits of open rehearsals and concerts for students of all ages. Seen here with Maestro Dudamel following a rehearsal with the Simón Bolívar Youth Orchestra in Carnegie Hall. Accompanied by young budding composers and students from the Juilliard School of Music, New York City." %}
+
+
 {% include gimage.html url="/images/photos/20161022_144916_Burst01-1.jpg" 
    description="Following my fundraiser event involving fine artists and friends, including musicians from the Philadelphia Orchestra, guitarist and composer Allen Krantz, the ensemble Latin Fiesta and others at the Horizon Theater in Norristown, PA, on June 28, 2016. We banked $15,000 to benefit young people’s education in classical music at the Centre Theater Music School of Norritown. In the picture is pianist and Director of Latin Fiesta Maria del Pico Taylor and me, sharing a moment of bliss following a festive concert of internationally diverse music." %}
 {% include gimage.html url="/images/photos/20161022_161653-1-1.jpg" 
