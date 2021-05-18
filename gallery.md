@@ -95,7 +95,7 @@ description="After recital in artistic collaboration with composer, Michael Shin
 {% include gimage.html url="/images/photos/picture-5.jpg" 
    description="An artistic collaboration with one of my dear friends, violinist Raymond Taylor who knew Ivan Galamian and Frank Sinatra. The photo was made following an amazing World War II commemoration event. A dozen Soviet hero’s of WWII were honored. It is certainly one of the most honorable moments in my life. My grandfather on my mother’s side was also a World War II hero, wounded three times and a survivor of the battle for Berlin." %}
    
-      {% include gimage.html url="/images/photos/stevedudamel.JPG" 
+{% include gimage.html url="/images/photos/stevedudamel.jpg" 
 description="Steve Kramer arranging visits of open rehearsals and concerts for students of all ages. Seen here with Maestro Dudamel following a rehearsal with the Simón Bolívar Youth Orchestra in Carnegie Hall. Accompanied by young budding composers and students from the Juilliard School of Music, New York City." %}
 
 
