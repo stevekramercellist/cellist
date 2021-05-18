@@ -40,12 +40,12 @@ description="Vladimir Yeshayavitch Novak during the numerous student recitals in
    description="My father working me hard prior to an adventurous travel to England to audition for a spot at The Yehudi Menuhin School. My father is a musician, one whom I had the good fortune to learn from and work with. I remember him barely practicing the violin, always working and drawing, painting and sculpting unconditionally. He played the violin with excellent phrasing and was one of the finest violinists I have ever encountered. As he got older, the sweetness of his singing tone tore me up. A true artist." %}
    
 {% include gimage.html url="/images/photos/steveandyehudi5.jpg" 
-   description="Studying at the Yehudi Menuhin school.\"An accomplished chamber musician, a child of music.\" – Yehudi Menuhin (at The Barn)" %}
+   description="Studying at the Yehudi Menuhin school.'An accomplished chamber musician, a child of music.' – Yehudi Menuhin (at The Barn)" %}
    
 {% include gimage.html url="/images/photos/009.jpg" 
    description="A very confident boy prior to beginning studies at The Yehudi Menuhin School." %}
 {% include gimage.html url="/images/photos/bengtsson.JPG" 
-   description="In the home of the legendary Scandinavian cellist, my first former cello teacher, Erling Blöndal Bengtsson. He was accepted by Gregor Piatigorsky as a student at the Curtis Institute of Music at the age of sixteen, his first assistant and also teacher at Curtis. \"Steve possesses an absolutely natural musical feeling and sense of form. His instrumental endowment is so convincing that he is a true cello talent.\"– Erling Blondal Bengtsson" %}
+   description="In the home of the legendary Scandinavian cellist, my first former cello teacher, Erling Blöndal Bengtsson. He was accepted by Gregor Piatigorsky as a student at the Curtis Institute of Music at the age of sixteen, his first assistant and also teacher at Curtis. 'Steve Kramer, whom I had the utmost pleasure teaching from within my home in Brønshøj, possesses an absolutely natural musical feeling and sense of form. His instrumental endowment is so convincing that he is a true cello talent.' – Erling Blondal Bengtsson" %}
 {% include gimage.html url="/images/photos/012.jpg" 
    description="Yehudi Menuhin School years. In company with grand musicians such as violinist Yehudi Menuhin, pianist and composer and chamber music teacher Peter Norris, cellist Alexander Chausian and in love with candy!" %}
 {% include gimage.html url="/images/photos/005.jpg" 
