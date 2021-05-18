@@ -5,7 +5,7 @@ layout: sidebar
 # Pedagogy
 
 
-
+More information coming soon.
 
 
 
