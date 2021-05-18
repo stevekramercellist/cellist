@@ -2,7 +2,6 @@
 * [Biography]({{ site.baseurl }}{% link biography.md %})
 * [Centre Theater]({{ site.baseurl }}{% link centretheater.md %})
 * [Entertainment]({{ site.baseurl }}{% link entertainment.md %})
-* [References]({{ site.baseurl }}{% link references.md %})
 * [Gallery]({{ site.baseurl }}{% link gallery.md %})
 * [Videos]({{ site.baseurl }}{% link videos.md %})
 * [Contact]({{ site.baseurl }}{% link contact.md %})
