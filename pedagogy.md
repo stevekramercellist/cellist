@@ -8,7 +8,7 @@ layout: sidebar
 More information coming soon.
 
 
-# Recommendation Letters
+## Recommendation Letters
 
 | [Sandra Miller]({{ site.baseurl }}{% link documents/miller.md %})          | [Download PDF](documents/Letter for Steve Kramer.pdf){:download="SandraMiller.pdf"} |
 
