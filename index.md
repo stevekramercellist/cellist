@@ -4,7 +4,7 @@ layout: slideshow
 ---
 {::options parse_block_html="true" /}
 
-“Music is enough for a lifetime but a lifetime is not enough for music ...”
+“Music is enough for a lifetime but a lifetime is not enough for music.”
 {: .quote }
 — Sergei Rachmaninoff
 {: .attribution }
