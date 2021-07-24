@@ -30,7 +30,7 @@ The Steve Kramer Entertainment Group welcomes your generous donation-gifts of mu
 
 ## Our Clients
 
-![Client Logos](/images/clientlogos2.jpg)
+![Client Logos](/images/clientlogos2.jpg) <img alt="Sarasota string ensemble clients">
 
 
 
