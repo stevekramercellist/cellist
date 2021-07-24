@@ -1,14 +1,15 @@
 ---
 title: Steve Kramer Entertainment ‹ Steve Kramer Cellist
 layout: sidebar
+<meta name="description" content="Hire a cellist or strings in Sarasota, Florida.">
 ---
-# The Steve Kramer Entertainment Group
+# The Steve Kramer Entertainment Group (Sarasota, FL)
 
 ![Radio City Music Hall](/images/photos/radiocitybw2.jpg)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/763572550&color=%23ffffff&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-The Steve Kramer Entertainment Group focuses on providing the highest class of entertainment and also reaching underserved children in order to teach the importance and joy of classical music.
+The Steve Kramer Entertainment Group is a <strong>Sarasota</strong>-based ensemble which focuses on providing the highest class of entertainment and also reaching underserved children in order to teach the importance and joy of classical music.
 
 The Steve Kramer Entertainment Group provides a roster of nearly all different configurations of ensembles bringing together the country's best musicians, educators, and composers. The musicians are available to be hired for solo performances and private recitals. To contact the artists, please have your clients use the following [form](http://stevekramercellist.com/contact.html).
 
