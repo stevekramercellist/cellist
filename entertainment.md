@@ -55,7 +55,7 @@ The Steve Kramer Entertainment Group welcomes your generous donation-gifts of mu
 
 ## Our Clients from Florida, Pennsylvania, New York, and Beyond
 
-![Client Logos](/images/clientlogos2.jpg) <img alt="Sarasota string ensemble clients" src=(/images/clientlogos2.jpg) >
+![Cellist in Sarasota Florida Clients](/images/clientlogos2.jpg) src=(/images/clientlogos2.jpg) >
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2LbTcH46fZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
