@@ -12,7 +12,7 @@ layout: sidebar
 
 The Steve Kramer Entertainment Group is a Sarasota-based ensemble which focuses on providing the highest class of entertainment and also reaching underserved children in order to teach the importance and joy of classical music.
 
-The Steve Kramer Entertainment Group provides a roster of nearly all different configurations of ensembles bringing together the country’s best musicians, educators, and composers. The musicians are available to be hired for solo performances and private recitals. To contact the artists, please have your clients use the [following form](http://stevekramercellist.com/contact.html).  <br /> <br />
+The Steve Kramer Entertainment Group provides a roster of nearly all different configurations of ensembles bringing together the country’s best musicians, educators, and composers. The musicians are available to be hired for solo performances and private recitals in Florida and beyond. To contact the artists, please use the [following form](http://stevekramercellist.com/contact.html).  <br /> <br />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kFOTKlICkY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
