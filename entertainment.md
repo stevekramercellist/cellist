@@ -25,7 +25,7 @@ My partners in music, based in Sarasota, Florida, Philadelphia, Pennsylvania, an
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EsgtQhydJnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K5L-chcm4a4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jtKueNajxBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -61,8 +61,6 @@ The Steve Kramer Entertainment Group welcomes your generous donation-gifts of mu
 
 ## Cello Performances by Steve Kramer (Sarasota Cellist)<br />
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jtKueNajxBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mm50t-n2I3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
