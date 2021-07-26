@@ -29,7 +29,7 @@ My partners in music, known as the Steve Kramer Entertainment Group are based in
 
 
 
-In addition to the entertainment group’s residency and music training programs, the artists involved offer in-school performance opportunities and private lectures and [lessons in performance](https://www.elizabethfarrellmusic.com/about-elizabeth-farrell/steve-kramer), music theory, and composition. <br /> <br />
+In addition to the entertainment group’s residency and music training programs, the artists involved offer in-school performance opportunities and [private lectures](http://stevekramercellist.com/pedagogy.html) and [lessons in performance](https://www.elizabethfarrellmusic.com/about-elizabeth-farrell/steve-kramer), music theory, and composition. <br /> <br />
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VItNKY1GTHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
@@ -60,6 +60,8 @@ The Steve Kramer Entertainment Group welcomes your generous donation-gifts of mu
 
 
 ## Cello Performances by Steve Kramer (Sarasota Cellist)<br />
+
+For a full library of cello performances by Steve Kramer, please visit the dedciated [video page](http://stevekramercellist.com/videos.html).
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mm50t-n2I3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
