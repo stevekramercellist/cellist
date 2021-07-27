@@ -45,7 +45,7 @@ The Steve Kramer Entertainment Group welcomes your generous donation-gifts of mu
 <center><a href="https://www.gigsalad.com/steve_kramer_philadelphia#reviews"><img src="https://www.gigsalad.com/profile/reviews-badge/160790/normal/blue" alt="Reviews on GigSalad" class="center2" height="128" width="108"></a></center><br />
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L-hz97yc_jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_CKfFe2qMKc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T934MKCbFhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br />
 
@@ -63,8 +63,6 @@ The Steve Kramer Entertainment Group welcomes your generous donation-gifts of mu
 ## Cello Performances by Steve Kramer (Sarasota Cellist)<br />
 
 For a full library of cello performances by Steve Kramer, please visit the dedciated [video page](http://stevekramercellist.com/videos.html).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_CKfFe2qMKc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B8a7X9Srm5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
