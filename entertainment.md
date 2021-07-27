@@ -37,7 +37,7 @@ In addition to the entertainment group’s residency and music training programs
 
 Steve Kramer Entertainment Group’s performance experiences have reached prestigious clients and the world-renowned concert halls, amongst them, the Ringling Museum (Sarasota, Florida), the Highlands Mansion, Radio City Music Hall, Kimmel Center, MGM Grand, Barnes Foundation, Philadelphia Art Museum, Franklin Institute, Strawberry Mansions, Woodmere Art Museum, the National Constitution Center, Novo Nordisk A/S, Datwyler, and Valley Forge Tourism & Convention Board.
 
-The Steve Kramer Entertainment Group welcomes your generous donation-gifts of music instruments and accessories in Sarasota, Florida and beyond. If you are able to make a conribution, please contact Steve Kramer using the [contact form](http://stevekramercellist.com/contact.html). <br />
+The Steve Kramer Entertainment Group welcomes your generous donation-gifts of music instruments and accessories in Sarasota, Florida and beyond. If you are able to make a contribution, please contact Steve Kramer using the [contact form](http://stevekramercellist.com/contact.html). <br />
  
  
 ## Our Reviews
