@@ -62,7 +62,7 @@ The Steve Kramer Entertainment Group welcomes your generous donation-gifts of mu
 
 ## Cello Performances by Steve Kramer (Sarasota Cellist)<br />
 
-For a full library of cello performances by Steve Kramer, please visit the dedciated [video page](http://stevekramercellist.com/videos.html).
+For a full library of cello performances by Steve Kramer, please visit the dedicated [video page](http://stevekramercellist.com/videos.html).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B8a7X9Srm5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
