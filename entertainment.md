@@ -4,7 +4,6 @@ layout: sidebar
 <meta name="description" content="Hire a cellist or strings in Sarasota, Florida.">
 ---
 # The Steve Kramer Entertainment Group 
-## (Sarasota, FL)
 
 ![Cellist in Sarasota Florida at Radio City Music Hall](/images/photos/radiocitybw2.jpg)
 
