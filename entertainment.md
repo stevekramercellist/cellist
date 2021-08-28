@@ -53,14 +53,14 @@ The Steve Kramer Entertainment Group welcomes your generous donation-gifts of mu
 
 ## Our Clients from Florida, Pennsylvania, New York, and Beyond
 
-![Cellist in Sarasota Florida Clients](/images/clientlogos2.jpg) <br />
+![Our Clients](/images/clientlogos2.jpg) <br />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2LbTcH46fZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MP3QvP6dPr4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 
-## Cello Performances by Steve Kramer (Sarasota Cellist)<br />
+## Cello Performances by Steve Kramer<br />
 
 For a full library of cello performances by Steve Kramer, please visit the dedicated [video page](http://stevekramercellist.com/videos.html).
 
