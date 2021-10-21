@@ -5,7 +5,7 @@ layout: sidebar
 ---
 # The Steve Kramer Entertainment Group 
 
-![Cellist in Sarasota Florida at Radio City Music Hall](/images/photos/radiocity1020.jpg)
+![Cellist in Sarasota Florida at Radio City Music Hall](/images/photos/radiocity1021.jpg)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/763572550&color=%23ffffff&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe> <br />
 
