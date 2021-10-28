@@ -7,7 +7,11 @@ layout: sidebar
 
 ![Cellist in Sarasota Florida at Radio City Music Hall](/images/photos/radiocity1021.jpg)
 
+<br/><br/>
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/763572550&color=%23ffffff&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe> <br />
+
+<br/><br/>
 
 The Steve Kramer Entertainment Group is a Sarasota-based ensemble which focuses on providing the highest class of entertainment and also reaching underserved children in order to teach the importance and joy of classical music.
 
