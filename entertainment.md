@@ -70,7 +70,7 @@ The Steve Kramer Entertainment Group welcomes your generous donation-gifts of mu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T934MKCbFhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br />
 
- <br/><br/>
+ <br/><br/><br/><br/>
 
 ## Our Clients from Florida, Pennsylvania, New York, and Beyond
 
@@ -80,7 +80,7 @@ The Steve Kramer Entertainment Group welcomes your generous donation-gifts of mu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MP3QvP6dPr4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-<br/><br/>
+<br/><br/><br/><br/>
 ## Cello Performances by Steve Kramer<br />
 
 For a full library of cello performances by Steve Kramer, please visit the dedicated [video page](http://stevekramercellist.com/videos.html).
