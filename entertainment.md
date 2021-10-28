@@ -17,11 +17,11 @@ The Steve Kramer Entertainment Group provides a roster of nearly all different c
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2sp4w5F_2HY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br />
 
-
+<br/><br/><br/><br/><br/>
 
 My partners in music, known as the Steve Kramer Entertainment Group are based in Sarasota, Florida, Philadelphia, Pennsylvania, and New York City, New York. They are an outstanding team of soloists and educators who help to build music programs, bringing interactive music education and performances to students. The ensemble generates a string quartet and a piano trio and its subsets, which perform all styles and genres from the early renaissance to contemporary. The musicians collaborate with a wide range of artists, including wind, percussion, vocal and dance, all who are accredited from the nation’s finest institutions.<br /><br />
 
-
+<br/><br/><br/><br/>
 
 
 
