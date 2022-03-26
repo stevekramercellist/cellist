@@ -18,5 +18,9 @@ More information coming soon.
 
 [Maria del Pico Taylor]({{ site.baseurl }}{% link documents/maria.md %})
 
+[Brendan Boyle, Congressman]({{ site.baseurl }}{% link documents/boyle.md %})
+
+[Josh Shapiro]({{ site.baseurl }}{% link documents/shapiro.md %})
+
 
 
