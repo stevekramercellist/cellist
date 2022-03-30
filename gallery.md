@@ -7,13 +7,13 @@ description="Rita. Grandmother, 'Babushka. My life, my love, and my mentor.'" %}
 
 
 
-{% include gimage.html url="/images/photos/steve_grand_3_final.JPG" 
+{% include gimage.html url="/images/photos/grand3.JPG" 
 description="Vladimir Ysaeyevich Novak, \“Volodia\” ." %}
 
-{% include gimage.html url="/images/photos/steve_grand_1.JPG" 
+{% include gimage.html url="/images/photos/grand1.JPG" 
 description="Dedushka Volodia and Babushka Rita in front of the fabulous and beloved concert hall of TIVOLI in Copenhagen, Denmark, housing all of the worlds-finest musician’s and artist’s for centuries. The great musician and entertainer Børge Rosenbaum a.k.a., Victor Borge, would read the title of our scandinavian oasis, backwards; \“ILOVIT\”." %}
 
-{% include gimage.html url="/images/photos/steve_grand_2.JPG" 
+{% include gimage.html url="/images/photos/grand2.JPG" 
 description="Volodia and Rita in 'Wonderful-Wonderful Copenhagen', Denmark." %}
 
 
