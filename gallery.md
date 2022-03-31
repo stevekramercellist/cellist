@@ -8,7 +8,7 @@ description="Rita. Grandmother, 'Babushka. My life, my love, and my mentor.'" %}
 
 
 {% include gimage.html url="/images/photos/grand3.jpg" 
-description="Vladimir Ysaeyevich Novak, Volodia." %}
+description="Vladimir Ysaeyevich Novak, \"Volodia.\"" %}
 
 
 {% include gimage.html url="/images/photos/grand1.jpg" 
