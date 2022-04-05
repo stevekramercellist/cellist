@@ -2,7 +2,7 @@
 title: Steve Kramer Entertainment ‹ Steve Kramer Cellist
 layout: sidebar
 ---
-# Pedagogy
+# PedagogyOLD
 
 
 More information coming soon.
