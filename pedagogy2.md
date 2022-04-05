@@ -7,7 +7,7 @@ layout: sidebar
 ## Steve Kramer, cellist ('Stevachka’)
 
 
-*“After having traveled, performed, and educated in many parts of the world, I recognize the incredible challenge that comes with leaving out musical education for our younger generations. It is atrocious and hair-raising that there is not a core curriculum that begins in elementary education and instills skills such as reading music, obtaining a basic understanding and appreciation of a wide variety of musical styles, and being skilled at playing at least one instrument which is a member of the classical symphony orchestra.”* 
+“*After having traveled, performed, and educated in many parts of the world, I recognize the incredible challenge that comes with leaving out musical education for our younger generations. It is atrocious and hair-raising that there is not a core curriculum that begins in elementary education and instills skills such as reading music, obtaining a basic understanding and appreciation of a wide variety of musical styles, and being skilled at playing at least one instrument which is a member of the classical symphony orchestra*.” 
 
 – Steve Kramer
 
@@ -28,7 +28,7 @@ It is equally important in what environment the personality grows and develops. 
 
 
 
-##Recommendation Letters
+## Recommendation Letters
 
 [Sandra Miller]({{ site.baseurl }}{% link documents/miller.md %})
 
