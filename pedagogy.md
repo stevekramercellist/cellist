@@ -1,5 +1,5 @@
 ---
-title: Biography ‹ Steve Kramer Cellist
+title: Pedagogy ‹ Steve Kramer Cellist
 layout: sidebar
 ---
 
