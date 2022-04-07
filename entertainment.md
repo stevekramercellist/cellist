@@ -19,9 +19,9 @@ The Steve Kramer Entertainment Group provides a roster of nearly all different c
 
 <br/><br/><br/><br/>
 
-<iframe width="560" height="100" src="https://www.youtube.com/embed/kFOTKlICkY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="100" height="100" src="https://www.youtube.com/embed/kFOTKlICkY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-<iframe width="560" height="100" src="https://www.youtube.com/embed/2sp4w5F_2HY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br />
+<iframe width="100" height="100" src="https://www.youtube.com/embed/2sp4w5F_2HY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br />
 
 <br/><br/>
 
@@ -87,7 +87,7 @@ The Steve Kramer Entertainment Group welcomes your generous donation-gifts of mu
 
 For a full library of cello performances by Steve Kramer, please visit the dedicated [video page](http://stevekramercellist.com/videos.html).
 
-<iframe width="15%" height="315" src="https://www.youtube.com/embed/B8a7X9Srm5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="100" height="100" src="https://www.youtube.com/embed/B8a7X9Srm5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <iframe width="15%" height="315" src="https://www.youtube.com/embed/Gc3pu0w7O8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
