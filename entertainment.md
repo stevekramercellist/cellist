@@ -9,7 +9,7 @@ layout: sidebar
 
 <br/><br/><br/><br/>
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/763572550&color=%23ffffff&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe> <br />
+<iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/763572550&color=%23ffffff&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe> <br />
 
 <br/><br/>
 
@@ -19,9 +19,9 @@ The Steve Kramer Entertainment Group provides a roster of nearly all different c
 
 <br/><br/><br/><br/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kFOTKlICkY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="100" src="https://www.youtube.com/embed/kFOTKlICkY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2sp4w5F_2HY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br />
+<iframe width="560" height="100" src="https://www.youtube.com/embed/2sp4w5F_2HY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br />
 
 <br/><br/>
 
