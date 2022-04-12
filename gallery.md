@@ -10,10 +10,12 @@ description="My grandfather on my mother’s side was also a World War II hero, 
 
  {% include gimage.html url="/images/photos/grandparentsupdate.jpg" 
  description="Frosty January 1943. The command of the Voronezh Front is preparing an offensive Ostrogozh-Rossosh operation. Rossosh is the largest railway junction and a supply base for many enemy formations occupied by the Italian Alpine Corps. The liberation of the city meant the collapse of the entire right front of the fascist group. The offensive began at dawn on January 14 from the Kantemirovka area and the Pasekovo railway station. After artillery preparation, infantry regiments of the 180th and 48th Guards Divisions of the 3rd Panzer Army go into the attack. The enemy's front edge was numb with fixed firing points. The infantry lay down, and the battles to break through the first defensive line was protracted. On January 16, the 180th division entered the city of Rossosh from the direction of Mitrofanovka. The 42nd Rifle Regiment is commanded by the Guard Major Gavriil Semenovich Kozhevnikov. A professional soldier - in the Red Army since 1931 - since the beginning of the war, he has always been at the forefront. In October 1941 he took part in the battles near Kamenka (battle for Moscow), where he was first wounded. In August-September 1942, he skillfully led the military operations of the regiment near Rzhev (Western Front), for which he was awarded his first 'Red Star'. The enemy retreated with battles. The battle for Rossosh took on the character of short but hot fights. The enemy fiercely resisted in the area of the railway station, on the railway station streets, on the northern outskirts of the station and at the poultry farm, where large ammunition depots were located. Eyewitnesses recalled that the Nazis settled on the roof of the railway station and opened heavy fire in response to any movement (from the side of today's Proletarskaya). Soldiers of the Soviet Army dug passages in the snowdrifts and thus were able to quietly approach the enemy. The battles for the city continued for several days. On January 17, Rossosh and its environs were cleared of the Nazis. The rout of a large enemy grouping was completed. For the liberation of the city of Rossosh, Kozhevnikov G.S. was awarded the Order of the Red Star, already the second since the beginning of the war. In Rossosh Gabriel met his love - the beautiful Shura Zimbalist. During the occupation, in order not to be noticed by the Nazis, she and her younger brother literally lived in a barn, starving and freezing. History is silent about the circumstances under which Gabriel and Shura met, but this fact became very significant for me. After that, Gabriel Semenovich had new battles and new exploits. In 43rd - the crossing of the Dnieper. In the 44th, he was transferred to the 2nd Belorussian Front, where he first commanded the 769th and then the 661st regiment of the 200th rifle division. Differs in the East Prussian operation: on February 7, 1945, the regiment of G.S. Kozhevnikov “near the village of Topolno, he defeated a group of Germans, only in this battle 600 soldiers and officers were taken prisoner, among the trophies were 300 carts with various property, 20 guns and many other military equipment. On 17.2.45, he personally, despite strong enemy artillery and mortar fire, led the assault on the Frankenhogen stronghold. 'In the battles for Berlin he was wounded again. After victory, it remains to command the 469th regiment of the 150th rifle division as part of the Group of Soviet occupation forces in Germany. He was awarded two Orders of the Red Star, three Orders of the Battle Red Banner, the Order of the Patriotic War of the 1st degree and many medals. In 1955 my grandfather and grandmother moved to live in Rossosh. In 1968 his grandfather was awarded the title of 'Honorary Citizen of the city of Rossosh'. They have lived a long and fulfilling life. My grandmother left in March 1994, my grandfather (he called himself so in communication with me) in July 1996. But thinking about them, I am mentally transported to a January day in 1943, the day they first met. Their fates were united by the war. He was 33, she was 21." %}
+ 
 {% include gimage.html url="/images/photos/02cropped.jpg" 
    description="Mother and grandmother." %}
    
-   {% include gimage.html url="/images/photos/mom.JPG" 
+
+{% include gimage.html url="/images/photos/mom.JPG" 
 description="My dearest mother at piano examination in adolescence." %}
    
 {% include gimage.html url="/images/photos/013.jpg" 
@@ -23,7 +25,7 @@ description="My dearest mother at piano examination in adolescence." %}
    description="Violin lessons, three years old with my grandfather, Vladimir Yeshayavitch Novak" %}
    
 {% include gimage.html url="/images/photos/Vladimir_Kiev.jpg" 
-   description="Vladimir Yeshayavitch Novak, a beloved and honored violin pedagogue and violinist in Kiev Philharmonic. Conducting the youth orchestra in the historic concert hall in the Khrestchaty Park in Kiev, Ukraine." %}
+description="Vladimir Yeshayavitch Novak, a beloved and honored violin pedagogue and violinist in Kiev Philharmonic. Conducting the youth orchestra in the historic concert hall in the Khrestchaty Park in Kiev, Ukraine." %}
    
    
 {% include gimage.html url="/images/photos/stevegallery4.jpg" 
@@ -48,8 +50,13 @@ description="Vladimir Yeshayavitch Novak during the numerous student recitals in
    description="Martha and I posing following a family concert." %}
    
 {% include gimage.html url="/images/photos/004.jpg" 
-   description="Playing as if my life depended upon it. Jens Brincker awarded me a price in Tivoli Hall at the 1993 Berlingske Tidende Classical Music Competition." %}
+   description="Playing as if my life depended upon it. Jens Brincker awarded me a prize in Tivoli Hall at the 1993 Berlingske Tidende Classical Music Competition." %}
+   
+   
+   
 {% include gimage.html url="/images/photos/Steve_10_age1.jpg" description="" %}
+
+
 {% include gimage.html url="/images/photos/011.jpg" 
    description="My father working me hard prior to an adventurous travel to England to audition for a spot at The Yehudi Menuhin School. My father is a musician, one whom I had the good fortune to learn from and work with. I remember him barely practicing the violin, always working and drawing, painting and sculpting unconditionally. He played the violin with excellent phrasing and was one of the finest violinists I have ever encountered. As he got older, the sweetness of his singing tone tore me up. A true artist." %}
    
@@ -58,23 +65,40 @@ description="Vladimir Yeshayavitch Novak during the numerous student recitals in
    
 {% include gimage.html url="/images/photos/009.jpg" 
    description="A very confident boy prior to beginning studies at The Yehudi Menuhin School." %}
+   
+   
 {% include gimage.html url="/images/photos/bengtsson.JPG" 
    description="In the home of the legendary Scandinavian cellist, my first former cello teacher, Erling Blöndal Bengtsson. He was accepted by Gregor Piatigorsky as a student at the Curtis Institute of Music at the age of sixteen, his first assistant and also teacher at Curtis. 'Steve Kramer, whom I had the utmost pleasure teaching from within my home in Brønshøj, possesses an absolutely natural musical feeling and sense of form. His instrumental endowment is so convincing that he is a true cello talent.' – Erling Blondal Bengtsson" %}
+   
+   
+   
 {% include gimage.html url="/images/photos/012.jpg" 
    description="Yehudi Menuhin School years. In company with grand musicians such as violinist Yehudi Menuhin, pianist and composer and chamber music teacher Peter Norris, cellist Alexander Chausian and in love with candy!" %}
+   
+   
 {% include gimage.html url="/images/photos/005.jpg" 
    description="After a practice session at the Hochschule fur Musik-Detmold, Germany. My teacher was the phenominal cellist, Karine Georgian." %}
+   
+   
+   
 {% include gimage.html url="/images/photos/pope.jpg" description="Meeting Pope John Paul II, Orvieto, Italy." %}
 
 {% include gimage.html url="/images/photos/010.jpg" description="" %}
+
 {% include gimage.html url="/images/photos/002.jpg" 
    description="Following a recital at a friend’s lighthouse in Dungeness, England." %}
+   
+   
 {% include gimage.html url="/images/photos/untitled-1-of-1-4-21.jpg" description="" %}
+
 {% include gimage.html url="/images/photos/DSC_01843-0051.jpg" description="" %}
+
 {% include gimage.html url="/images/photos/spainedit.jpg" 
 description="Solo recital, Andalusia, Almuñécar." %}
 
+
 {% include gimage.html url="/images/photos/DSC_0037.NEF-0031.jpg" description="" %}
+
 {% include gimage.html url="/images/photos/20151119_110159.jpg" 
    description="Bringing music to disadvantaged children through Musicopia" %}
 {% include gimage.html url="/images/photos/Cellist.jpg" description="Musicopia." %}
@@ -150,12 +174,13 @@ description="Steve Kramer arranging visits of open rehearsals and concerts for s
 {% include gimage.html url="/images/photos/theaternight.jpg" description="Director of Music" %}
 {% include gimage.html url="/images/photos/adultcarecenter.jpg"
    description="Independence String Ensemble performs at the New Age Adult Day Care Center. Sharing my innate love and joy for classical and popular music composed in America and providing the highest class of entertainment to the elderly and infirm: this is without a doubt the most honorable and noble of missions in my professional life with the cello in hand." %}
+   
    {% include gimage.html url="/images/photos/stevemarathon.jpg" description="Marathon fever!" %}
    
    {% include gimage.html url="/images/photos/esti1.JPG" 
 description="Esti." %}    
    
-    {% include gimage.html url="/images/photos/jenniferhigdonfilter.jpg" description="With my dear friends in life, Jennifer Higdon and Michael Shingo Crawford, following a great performance of Jennifer Higdon's Nocturne for cello and piano, with Michael Shingo Crawford at the piano. Working with contemporary composers is a cornerstone of my musical life, and the International Contemporary Composers Festival of North America, a collaboration with composers on a global scale, is a testament to that." %}
+   {% include gimage.html url="/images/photos/jenniferhigdonfilter.jpg" description="With my dear friends in life, Jennifer Higdon and Michael Shingo Crawford, following a great performance of Jennifer Higdon's Nocturne for cello and piano, with Michael Shingo Crawford at the piano. Working with contemporary composers is a cornerstone of my musical life, and the International Contemporary Composers Festival of North America, a collaboration with composers on a global scale, is a testament to that." %}
     
 
 
