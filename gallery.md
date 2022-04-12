@@ -18,10 +18,14 @@ description="My dearest mother at piano examination in adolescence." %}
    
 {% include gimage.html url="/images/photos/013.jpg" 
    description="The Sound of music in a very young age." %}
+   
 {% include gimage.html url="/images/photos/Dedushka_3_years_Steve1.jpg" 
    description="Violin lessons, three years old with my grandfather, Vladimir Yeshayavitch Novak" %}
+   
 {% include gimage.html url="/images/photos/Vladimir_Kiev.jpg" 
    description="Vladimir Yeshayavitch Novak, a beloved and honored violin pedagogue and violinist in Kiev Philharmonic. Conducting the youth orchestra in the historic concert hall in the Khrestchaty Park in Kiev, Ukraine." %}
+   
+   
 {% include gimage.html url="/images/photos/stevegallery4.jpg" 
    description="My grandfather Vladmir was a beloved and most respected violin pedagogue in Kiev, Ukraine and also a member of the Kiev Philharmonic. Here he is depicted with his colleagues and his dearest friend, Maestro Natan Rakhlin and composer Dmitri Shostakovich." %}
    
@@ -34,11 +38,15 @@ description="Vladimir Yeshayavitch Novak during the numerous student recitals in
 
 
 {% include gimage.html url="/images/photos/003edit.jpg" description="" %}
+
 {% include gimage.html url="/images/photos/Martha_Steve1.jpg" description="" %}
+
 {% include gimage.html url="/images/photos/Martha_Steve.jpg"
    description="The shortest distance between people, is the smile. ~ Victor Borge." %}
-{% include gimage.html url="/images/photos/001.jpg"
+   
+{% include gimage.html url="/images/photos/001.jpg" 
    description="Martha and I posing following a family concert." %}
+   
 {% include gimage.html url="/images/photos/004.jpg" 
    description="Playing as if my life depended upon it. Jens Brincker awarded me a price in Tivoli Hall at the 1993 Berlingske Tidende Classical Music Competition." %}
 {% include gimage.html url="/images/photos/Steve_10_age1.jpg" description="" %}
