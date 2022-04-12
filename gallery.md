@@ -3,7 +3,8 @@ title: Gallery ‹ Steve Kramer Cellist
 ---
 {% include gstart.html %}
 
-
+{% include gimage.html url="/images/photos/009.jpg" 
+   description="A very confident boy prior to beginning studies at The Yehudi Menuhin School." %}
 
 {% include gimage.html url="/images/photos/01framed2.jpg" 
 description="My grandfather on my mother’s side was also a World War II hero, wounded three times and a survivor of the battle for Berlin." %}
@@ -63,8 +64,7 @@ description="Vladimir Yeshayavitch Novak during the numerous student recitals in
 {% include gimage.html url="/images/photos/steveandyehudi5.jpg" 
    description="Studying at the Yehudi Menuhin school.'An accomplished chamber musician, a child of music.' – Yehudi Menuhin (at The Barn)" %}
    
-{% include gimage.html url="/images/photos/009.jpg" 
-   description="A very confident boy prior to beginning studies at The Yehudi Menuhin School." %}
+
    
    
 {% include gimage.html url="/images/photos/bengtsson.JPG" 
