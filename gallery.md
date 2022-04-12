@@ -6,7 +6,7 @@ title: Gallery ‹ Steve Kramer Cellist
 
  
  
- {% include gimage.html url="/images/photos/traub.jpg"
+ {% include gimage.html url="/images/photos/esti3.jpg"
   description="Esti." %}
 
 
