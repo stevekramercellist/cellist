@@ -60,10 +60,10 @@ description="Vladimir Yeshayavitch Novak during the numerous student recitals in
 {% include gimage.html url="/images/photos/011.jpg" 
    description="My father working me hard prior to an adventurous travel to England to audition for a spot at The Yehudi Menuhin School. My father is a musician, one whom I had the good fortune to learn from and work with. I remember him barely practicing the violin, always working and drawing, painting and sculpting unconditionally. He played the violin with excellent phrasing and was one of the finest violinists I have ever encountered. As he got older, the sweetness of his singing tone tore me up. A true artist." %}
    
-{% include gimage.html url="/images/photos/bengtsson.JPG" 
+{% include gimage.html url="/images/photos/steveandyehudi5.jpg" 
    description="Studying at the Yehudi Menuhin school.'An accomplished chamber musician, a child of music.' – Yehudi Menuhin (at The Barn)" %}
    
-{% include gimage.html url="/images/photos/bengtsson.JPG" 
+{% include gimage.html url="/images/photos/009.jpg" 
    description="A very confident boy prior to beginning studies at The Yehudi Menuhin School." %}
    
    
