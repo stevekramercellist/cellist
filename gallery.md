@@ -179,7 +179,7 @@ description="Steve Kramer arranging visits of open rehearsals and concerts for s
 {% include gimage.html url="/images/photos/IMG-20180716-WA0037.jpg" description="Visit at the English School in Pirracicaba, Brazil, advocating for the joy and importance of classical music." %}
 {% include gimage.html url="/images/photos/stevegallery3.jpg" 
    description="Performing with closest friends, baritone, Alan Rosenbaum, coloratura soprano, Sandra Miller, pianist, Jon Broder and bassoonist, Edward Ziegman" %}
-{% include glink.html url="/images/photos/ribalta_brazil/collage.jpg" href="ribalta.html"       
+{% include gimage.html url="/images/photos/ribalta_brazil/collage.jpg" href="ribalta.html"       
    description="The Internationally recognized Project &quot;Starving Artist Prevention&quot;.  Here in artistic collaboration with the young musicians of 'Luzes da Ribalta', in Brazil."  %}
 {% include gimage.html url="/images/photos/stevegallery5.jpg" 
    description="Internationally acclaimed Rachmaninoff Duo in rehearsal." %}
