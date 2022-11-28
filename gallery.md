@@ -135,7 +135,7 @@ description="Concert, Andalusia, Almuñécar." %}
 description="After recital in New York City, passionately promoting the new generations of composers." %}
    
 {% include gimage.html url="/images/photos/picture-2.jpg" 
-   description="A performance that "floored" the audience." %}
+   description="A performance that 'floored' the audience." %}
 {% include gimage.html url="/images/photos/DSC_0095.jpg" 
    description="My American master class debut. Instructing Kevyn, Ben and Pat at the Mitchell Performing Arts Center in Bryn Athen." %}
 {% include gimage.html url="/images/photos/DSC_0069.jpg" 
