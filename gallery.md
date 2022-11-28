@@ -145,7 +145,7 @@ description="After recital in New York City, passionately promoting the new gene
    description="Tradition. And for generations to come." %}
    
 {% include gimage.html url="/images/photos/picture-5.jpg" 
-   description="An artistic collaboration with one of my dear friends, violinist Raymond Taylor who passed away in 2020 during the global pandemic heist titled: Covid. A brother to me who knew Ivan Galamian and Frank Sinatra. The photo was made following an amazing World War II commemoration event. A dozen Soviet hero’s of WWII were honored. It is certainly one of the most honorable moments in my life. My grandfather on my mother’s side was also a World War II hero, wounded three times and a survivor of "The Battle of Berlin"." %}
+   description="An artistic collaboration with one of my dear friends, violinist Raymond Taylor who passed away in 2020 during the global pandemic heist titled: Covid. A brother to me who knew Ivan Galamian and Frank Sinatra. The photo was made following an amazing World War II commemoration event. A dozen Soviet hero’s of WWII were honored. It is certainly one of the most honorable moments in my life. My grandfather on my mother’s side was also a World War II hero, wounded three times and a survivor of 'The Battle of Berlin'." %}
    
 {% include gimage.html url="/images/photos/stevedudamel.jpg" 
 description="Steve Kramer arranging visits of open rehearsals and concerts for students of all ages. Seen here with Maestro Dudamel following a rehearsal with the Simón Bolívar Youth Orchestra in Carnegie Hall. Accompanied by young budding cello students and composers from the Juilliard School of Music, New York City." %}
@@ -182,7 +182,7 @@ description="Steve Kramer arranging visits of open rehearsals and concerts for s
 {% include gimage.html url="/images/photos/ribalta_brazil/collage.jpg" href="ribalta.html"       
    description="The Internationally recognized Project &quot;Starving Artist Prevention&quot;.  Here in artistic collaboration with the young musicians of 'Luzes da Ribalta', in Brazil."  %}
 {% include gimage.html url="/images/photos/stevegallery5.jpg" 
-   description="Internationally acclaimed ensemble in rehearsal: "The Rachmaninoff Duo"." %}
+   description="Internationally acclaimed ensemble in rehearsal: 'The Rachmaninoff Duo'." %}
 {% include gimage.html url="/images/photos/stevegallery6.jpg" 
    description="Director of the Centre Theater." %}
 {% include gimage.html url="/images/photos/stevegallery1.jpg" 
