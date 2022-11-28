@@ -91,20 +91,20 @@ description="Vladimir Yeshayavitch Novak during the numerous student recitals in
    
    
 {% include gimage.html url="/images/photos/012.jpg" 
-   description="Yehudi Menuhin School years. In company with grand musicians such as violinist Yehudi Menuhin, pianist and composer and chamber music teacher Peter Norris, cellist Alexander Chausian and in love with candy!" %}
+   description="Yehudi Menuhin School years. In company with grand musicians such as violinist Yehudi Menuhin, pianist and composer and chamber music teacher Peter Norris, cellist Alexander Chausian and absolutly addicted to candy." %}
    
    
 {% include gimage.html url="/images/photos/005.jpg" 
-   description="After a practice session at the Hochschule fur Musik-Detmold, Germany. My teacher was the phenominal cellist, Karine Georgian." %}
+   description="After a practice session at the prestigious 'Hochschule fur Musik-Detmold' in Germany. My teacher was the phenominal cellist, Karine Georgian." %}
    
    
    
-{% include gimage.html url="/images/photos/pope.jpg" description="Meeting Pope John Paul II, Orvieto, Italy." %}
+{% include gimage.html url="/images/photos/pope.jpg" description="Together with Pope John Paul II, Orvieto, Italy." %}
 
 {% include gimage.html url="/images/photos/010.jpg" description="" %}
 
 {% include gimage.html url="/images/photos/002.jpg" 
-   description="Following a recital at a friend’s lighthouse in Dungeness, England." %}
+   description="Following a recital at a friend's lighthouse in Dungeness, England, performing the 'VI Unaccompanied Suites' by Johann Sebastian Bach." %}
    
    
 {% include gimage.html url="/images/photos/untitled-1-of-1-4-21.jpg" description="" %}
@@ -112,7 +112,7 @@ description="Vladimir Yeshayavitch Novak during the numerous student recitals in
 {% include gimage.html url="/images/photos/DSC_01843-0051.jpg" description="" %}
 
 {% include gimage.html url="/images/photos/spainedit.jpg" 
-description="Solo recital, Andalusia, Almuñécar." %}
+description="Concert, Andalusia, Almuñécar." %}
 
 
 {% include gimage.html url="/images/photos/DSC_0037.NEF-0031.jpg" description="" %}
@@ -132,64 +132,64 @@ description="Solo recital, Andalusia, Almuñécar." %}
    description="Chamber music derives partly from an old German tradition. I am passionately continuing this tradition in the United States." %}
   
   {% include gimage.html url="/images/photos/nycgroupmuse.JPG" 
-description="After recital in artistic collaboration with composer, Michael Shingo Crawford, in New York City." %}
+description="After recital in New York City, passionately promoting the new generations of composers." %}
    
 {% include gimage.html url="/images/photos/picture-2.jpg" 
-   description="A performance that floored the audience." %}
+   description="A performance that "floored" the audience." %}
 {% include gimage.html url="/images/photos/DSC_0095.jpg" 
    description="My American master class debut. Instructing Kevyn, Ben and Pat at the Mitchell Performing Arts Center in Bryn Athen." %}
 {% include gimage.html url="/images/photos/DSC_0069.jpg" 
    description="My American master class debut. Instructing Kevyn, Ben and Pat at the Mitchell Performing Arts Center in Bryn Athen." %}
    
 {% include gimage.html url="/images/photos/cellostudent2.jpg" 
-   description="Emma - Elite Music Academy, Elkins Park, PA." %}
+   description="Tradition. And for generations to come." %}
    
 {% include gimage.html url="/images/photos/picture-5.jpg" 
-   description="An artistic collaboration with one of my dear friends, violinist Raymond Taylor who knew Ivan Galamian and Frank Sinatra. The photo was made following an amazing World War II commemoration event. A dozen Soviet hero’s of WWII were honored. It is certainly one of the most honorable moments in my life. My grandfather on my mother’s side was also a World War II hero, wounded three times and a survivor of the battle for Berlin." %}
+   description="An artistic collaboration with one of my dear friends, violinist Raymond Taylor who passed away in 2020 during the global pandemic heist titled: Covid. A brother to me who knew Ivan Galamian and Frank Sinatra. The photo was made following an amazing World War II commemoration event. A dozen Soviet hero’s of WWII were honored. It is certainly one of the most honorable moments in my life. My grandfather on my mother’s side was also a World War II hero, wounded three times and a survivor of "The Battle of Berlin"." %}
    
 {% include gimage.html url="/images/photos/stevedudamel.jpg" 
-description="Steve Kramer arranging visits of open rehearsals and concerts for students of all ages. Seen here with Maestro Dudamel following a rehearsal with the Simón Bolívar Youth Orchestra in Carnegie Hall. Accompanied by young budding composers and students from the Juilliard School of Music, New York City." %}
+description="Steve Kramer arranging visits of open rehearsals and concerts for students of all ages. Seen here with Maestro Dudamel following a rehearsal with the Simón Bolívar Youth Orchestra in Carnegie Hall. Accompanied by young budding cello students and composers from the Juilliard School of Music, New York City." %}
 
 
 {% include gimage.html url="/images/photos/20161022_144916_Burst01-1.jpg" 
-   description="Following my fundraiser event involving fine artists and friends, including musicians from the Philadelphia Orchestra, guitarist and composer Allen Krantz, the ensemble Latin Fiesta and others at the Horizon Theater in Norristown, PA, on June 28, 2016. We banked $15,000 to benefit young people’s education in classical music at the Centre Theater Music School of Norritown. In the picture is pianist and Director of Latin Fiesta Maria del Pico Taylor and me, sharing a moment of bliss following a festive concert of internationally diverse music." %}
+   description="Following my fundraiser event involving fine artists and friends, including musicians from the Philadelphia Orchestra, guitarist and composer Allen Krantz, the ensemble Latin Fiesta and others at the Horizon Theater in Norristown, PA, on June 28, 2016. We banked $15,000 to benefit young people’s education in classical music at the Centre Theater Music School of Norritown. In the picture is my internationally acclaimed ensemble: The Rachmaninoff Duo", sharing a moment of bliss following a festive concert of internationally diverse music." %}
 {% include gimage.html url="/images/photos/20161022_161653-1-1.jpg" 
-   description="Portrait with my long term friend, Harrington E. Crissey, Jr., a.k.a. ‘Kit’, an educator and a passionate advocate for classical music and contemporary composers and a presenter of the fabulous “Crissey Concerts”." %}
+   description="Portrait with my long term friend, Harrington E. Crissey, Jr., a.k.a. ‘Kit’, an educator and a passionate advocate for classical music and contemporary composers and a presenter for three decades of the fabulous “Crissey Concerts”." %}
 {% include gimage.html url="/images/photos/steve_posing.jpg" 
    description="" %}
 {% include gimage.html url="/images/photos/Franzetti.jpg" 
    description="In the home of the Grammy award-winning family, composers and pianists, Allison and Carlos Franzetti" %}
 {% include gimage.html url="/images/photos/829.JPG" 
-   description="Accompanied by my greatest fan, my dearest mother." %}
+   description="Accompanied by my greatest fan, my mother-dearest." %}
 {% include gimage.html url="/images/photos/Cellist-Boxing.jpg" 
-   description="Die-hard training with the world champion athlete and boxer, Poul Duvil. Running a 20+ marathon, hiking, mountaineering, snowboarding/skiing, swimming, yoga, pilates…it’s a lifestyle." %}
+   description="Die-hard training with the world champion athlete and boxer, Poul Duvil. Running a 20+ marathon, hiking, biking, mountaineering, snowboarding/skiing, tennis, swimming, yoga, pilates, meditation and fasting ... it’s a lifestyle." %}
 {% include gimage.html url="/images/photos/20160806_124210.jpg" 
-   description="Together with the always charismatic Joel Pier following a Bikram session. It was in my early that I began practising yoga, introduced to me by Yehudi Menuhin. Through my affiliation with many recognized yoga teachers a door was open to participate in the spiritual tradition of 'Sweat Lodge's' piloted by Native Americans" %}
+   description="Together with the always charismatic Joel Pier following a Bikram-Yoga session. It was in my early that I began practising yoga, introduced to me by Yehudi Menuhin. Through my affiliation with many recognized yoga teachers a door was open to participate in the spiritual tradition of 'Sweat Lodge's' piloted by Native Americans" %}
 {% include gimage.html url="/images/photos/20170930_012513.jpg" 
-   description="Following a performance in collaboration with Philadelphia's Mural Art's Project, honoring the six winner's of the Latin Fiesta's, Pioneer Award. In a great company with Jessy Bermudez, founder of 'Asociasion de Musicos Latino Americos, AMLA, and radio host at Sirius Satellite Radio, Stanley Evans with his lovely wife" %}
+   description="Following a performance in collaboration with Philadelphia's Mural Art's Project, honoring the six winner's of the Latin Fiesta's, Pioneer Award. In a great company with Jessy Bermudez, founder of 'Asociasion de Musicos Latino Americos, AMLA, and radio host at Sirius Satellite Radio, Stanley Evans with his lovely wife." %}
 {% include gimage.html url="/images/photos/20170923_181639.jpg" 
-   description="Following a performance in collaboration with Diego Castellanos at Philadelphia’s television station, WPVI-TV, Channel 6-ABC" %}
-{% include gimage.html url="/images/photos/Radio_City.jpg" description="Performance debut in the great Radio City Music Hall, New York City" %}
-{% include gimage.html url="/images/photos/Twain_Kramer.jpg" description="Accompanied by Mark Twain at Centre Theaters Fundraiser, October 7th., 2017" %}
+   description="Following a performance in collaboration with Diego Castellanos at Philadelphia’s television station, WPVI-TV, Channel 6-ABC." %}
+{% include gimage.html url="/images/photos/Radio_City.jpg" description="Performance debut in the great Radio City Music Hall, New York City." %}
+{% include gimage.html url="/images/photos/Twain_Kramer.jpg" description="Accompanied by Mark Twain at Centre Theaters Fundraiser, October 7th., 2017." %}
 {% include gimage.html url="/images/photos/stevegallery2.jpg" 
-   description="Chamber music derives partly from an old German tradition. I am passionately continuing this tradition in the United States. In the home on Lake Barcroft, Virginia in company with the honorable Dominick Cardella" %}
-{% include gimage.html url="/images/photos/093.JPG" description="God Bless America" %}
-{% include gimage.html url="/images/photos/IMG-20180718-WA0057.jpg" description="Playing around with the 'Cavaquinho' and 'Acordeon', both national instruments of Brazil.  Accompanied by Prof. Taylor." %}
+   description="Chamber music derives partly from an old German tradition. I am passionately continuing this tradition in the United States. In the home on Lake Barcroft, Virginia in company with the honorable Dominick Cardella." %}
+{% include gimage.html url="/images/photos/093.JPG" description="GOD BLESS AMERICA." %}
+{% include gimage.html url="/images/photos/IMG-20180718-WA0057.jpg" description="Playing around with the 'Cavaquinho' and 'Acordeon', both national instruments of Brazil.  Joyfully assisted by former pianist Prof. Taylor while touring with my ensemble: The Rachmaninoff Duo." %}
 {% include gimage.html url="/images/photos/IMG-20180710-WA0004.jpg" description="2018 concert tour in Brazil, portraying American and Danish music." %}
 {% include gimage.html url="/images/photos/IMG-20180716-WA0037.jpg" description="Visit at the English School in Pirracicaba, Brazil, advocating for the joy and importance of classical music." %}
 {% include gimage.html url="/images/photos/stevegallery3.jpg" 
-   description="Performing with closest friends, baritone, Alan Rosenbaum, coloratura soprano, Sandra Miller, pianist, Jon Broder and bassoonist, Edward Ziegman" %}
+   description="Performing with closest friends, baritone, Alan Rosenbaum, coloratura soprano, Sandra Miller, pianist, Jon Broder and bassoonist, Edward Ziegman." %}
 {% include gimage.html url="/images/photos/ribalta_brazil/collage.jpg" href="ribalta.html"       
    description="The Internationally recognized Project &quot;Starving Artist Prevention&quot;.  Here in artistic collaboration with the young musicians of 'Luzes da Ribalta', in Brazil."  %}
 {% include gimage.html url="/images/photos/stevegallery5.jpg" 
-   description="Internationally acclaimed Rachmaninoff Duo in rehearsal." %}
+   description="Internationally acclaimed ensemble in rehearsal: "The Rachmaninoff Duo"." %}
 {% include gimage.html url="/images/photos/stevegallery6.jpg" 
-   description="Director of the Centre Theater" %}
+   description="Director of the Centre Theater." %}
 {% include gimage.html url="/images/photos/stevegallery1.jpg" 
-   description="Steve Kramer’s artistic and educational collaborations also include having the honorable position of Director of Music at The Veterans School for the Music and Arts, a subsidiary of Vance Community Partners, Inc. The Veterans School for the Music and Arts, with generous support from the Kal and Lucille Rudman Foundation. Here seen together with the music-loving and very funny Solomon 'Kal' Rudman" %}
+   description="Steve Kramer’s artistic and educational collaborations also include having the honorable position of Director of Music at The Veterans School for the Music and Arts, a subsidiary of Vance Community Partners, Inc. The Veterans School for the Music and Arts, with generous support from the Kal and Lucille Rudman Foundation. Here seen together with the music-loving and very funny Solomon 'Kal' Rudman." %}
 {% include gimage.html url="/images/photos/yanovitsky.jpg" 
    description="Internationally acclaimed Rachmaninoff Duo in Concert.." %}
-{% include gimage.html url="/images/photos/theaternight.jpg" description="Director of Music" %}
+{% include gimage.html url="/images/photos/theaternight.jpg" description="Saving a theater. Director of Music." %}
 {% include gimage.html url="/images/photos/adultcarecenter.jpg"
    description="Independence String Ensemble performs at the New Age Adult Day Care Center. Sharing my innate love and joy for classical and popular music composed in America and providing the highest class of entertainment to the elderly and infirm: this is without a doubt the most honorable and noble of missions in my professional life with the cello in hand." %}
    
@@ -198,7 +198,7 @@ description="Steve Kramer arranging visits of open rehearsals and concerts for s
    {% include gimage.html url="/images/photos/esti1.JPG" 
 description="Esti." %}    
    
-   {% include gimage.html url="/images/photos/jenniferhigdonfilter.jpg" description="With my dear friends in life, Jennifer Higdon and Michael Shingo Crawford, following a great performance of Jennifer Higdon's Nocturne for cello and piano, with Michael Shingo Crawford at the piano. Working with contemporary composers is a cornerstone of my musical life, and the International Contemporary Composers Festival of North America, a collaboration with composers on a global scale, is a testament to that." %}
+   {% include gimage.html url="/images/photos/jenniferhigdonfilter.jpg" description="Promoting composers. Following a performance with music by Jennifer Higdon and other American composers. Working with contemporary composers is a cornerstone of my musical life welcoming collaborations with composers on a global scale." %}
     
 
 
@@ -215,10 +215,10 @@ description="Tradition." %}
 description="Esti." %}
 
    {% include gimage.html url="/images/photos/traub.jpg" 
-description="Luncheon following artistic collaboration with my dear friends, composer Michael Shingo Crawford and architect and amateur cellist, David Traub. David Traub wrote two jewels: 'Searching for Philadelphia, The Concealed City,' and 'Discovering Philadelphia, Places Little Known.' David Traub created as a part of the 1982 tercentenary celebration of the founding of Philadelphia, ‘The Concealed City’, building bridge historically to the sequel, ‘Places Little Known’. The respective reader takes a fabulous journey through a myriad of corridors, from the narrowest of streets and alleyways, public squares and hidden gardens, bringing to light the 'secret city,' that most residents and tourist never will see. The second 'footprint' of true historic bliss welcomes us to rather unusual sites, from charming interiors and hidden pockets, old mansions, cemeteries and urban oases, and so on and so forth. David Traub, a native ‘Kentuckian’, born and raised in Louisville, obtained his greater learning and degrees at the prestigious University of Pennsylvania, under the tutelage of Louis I. Kahn. David Traub developed and worked projects such as the Kimbell Art Museum in Forth Worth, Yale Center for British Art in New Haven, restoring a Victorian carriage house in the Fairmount section of Philadelphia, and has conquered tales of artistic collaborations with world-leading composers and artists, encompassing names prominent as Maestro Igor Stravinsky, and the legendary cellist Gregor Piatigorsky, the cello teacher of my teacher of cello." %}
+description="Luncheon following artistic collaboration with my dearest friend, architect and amateur cellist, David Traub and his colleague. David Traub wrote two jewels: 'Searching for Philadelphia, The Concealed City,' and 'Discovering Philadelphia, Places Little Known.' David Traub created as a part of the 1982 tercentenary celebration of the founding of Philadelphia, ‘The Concealed City’, building bridge historically to the sequel, ‘Places Little Known’. The respective reader takes a fabulous journey through a myriad of corridors, from the narrowest of streets and alleyways, public squares and hidden gardens, bringing to light the 'secret city,' that most residents and tourist never will see. The second 'footprint' of true historic bliss welcomes us to rather unusual sites, from charming interiors and hidden pockets, old mansions, cemeteries and urban oases, and so on and so forth. David Traub, a native ‘Kentuckian’, born and raised in Louisville, obtained his greater learning and degrees at the prestigious University of Pennsylvania, under the tutelage of Louis I. Kahn. David Traub developed and worked projects such as the Kimbell Art Museum in Forth Worth, Yale Center for British Art in New Haven, restoring a Victorian carriage house in the Fairmount section of Philadelphia, and has conquered tales of artistic collaborations with world-leading composers and artists, encompassing names prominent as the composer Igor Stravinsky, and the legendary cellist Gregor Piatigorsky, the cello teacher of my first and former cello teacher, Erling Bløndal Bengtsson." %}
 
 {% include gimage.html url="/images/photos/annasteve.JPG" 
-description="Marrying the woman of my life, Anechka, in the midst of the global pandemic. December 7, 2020." %}
+description="Marrying the woman of my life in the midst of the global pandemic heist, my beloved wife Anechka. December 7, 2020." %}
   
 {% include gend.html %}
 
