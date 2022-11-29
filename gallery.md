@@ -152,7 +152,7 @@ description="Steve Kramer arranging visits of open rehearsals and concerts for s
 
 
 {% include gimage.html url="/images/photos/20161022_144916_Burst01-1.jpg" 
-   description="Following my fundraiser event involving fine artists and friends, including musicians from the Philadelphia Orchestra, guitarist and composer Allen Krantz, the ensemble Latin Fiesta and others at the Horizon Theater in Norristown, PA, on June 28, 2016. We banked $15,000 to benefit young people’s education in classical music at the Centre Theater Music School of Norritown. In the picture is my internationally acclaimed ensemble: The Rachmaninoff Duo", sharing a moment of bliss following a festive concert of internationally diverse music." %}
+   description="Following my fundraiser event involving fine artists and friends, including musicians from the Philadelphia Orchestra, guitarist and composer Allen Krantz, the ensemble Latin Fiesta and others at the Horizon Theater in Norristown, PA, on June 28, 2016. We banked $15,000 to benefit young people’s education in classical music at the Centre Theater Music School of Norritown. In the picture is my internationally acclaimed ensemble: The Rachmaninoff Duo, sharing a moment of bliss following a festive concert of internationally diverse music." %}
 {% include gimage.html url="/images/photos/20161022_161653-1-1.jpg" 
    description="Portrait with my long term friend, Harrington E. Crissey, Jr., a.k.a. ‘Kit’, an educator and a passionate advocate for classical music and contemporary composers and a presenter for three decades of the fabulous “Crissey Concerts”." %}
 {% include gimage.html url="/images/photos/steve_posing.jpg" 
