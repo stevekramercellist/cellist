@@ -2,7 +2,7 @@
 title: Videos ‹ Steve Kramer Cellist
 layout: wider
 ---
-<iframe width="390" height="220" src="https://www.youtube.com/watch?v=U3En89lhGlw&t=1836s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="390" height="220" src="https://www.youtube.com/embed/U3En89lhGlw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/4b5nX0hdUks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
