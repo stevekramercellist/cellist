@@ -22,6 +22,8 @@ layout: wider
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/rAciSfdQNdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="390" height="220" src="https://www.youtube.com/embed/MP3QvP6dPr4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
 <iframe width="390" height="220" src="https://www.youtube.com/embed/YjNxSban0Lo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/Xs5GasOSbb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -33,8 +35,6 @@ layout: wider
 <iframe width="390" height="220" src="https://www.youtube.com/embed/T934MKCbFhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/2LbTcH46fZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/MP3QvP6dPr4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/EsgtQhydJnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
