@@ -1,6 +1,6 @@
 * [Home]({{ site.baseurl }}{% link index.md %})
 * [Biography]({{ site.baseurl }}{% link biography.md %})
-* [Centre Theater]({{ site.baseurl }}{% link centretheater.md %})
+<!---* [Centre Theater]({{ site.baseurl }}{% link centretheater.md %})--->
 * [Entertainment]({{ site.baseurl }}{% link entertainment.md %})
 * [Pedagogy]({{ site.baseurl }}{% link pedagogy.md %})
 * [Gallery]({{ site.baseurl }}{% link gallery.md %})
