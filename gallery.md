@@ -221,10 +221,10 @@ description="Luncheon following artistic collaboration with my dearest friend, a
 description="Marrying the woman of my life in the midst of the global pandemic heist, my beloved wife Anechka. December 7, 2020." %}
   
 {% include gimage.html url="/images/photos/ViolinsofHope.JPEG" 
-description="Celebrating our son Victor's 13th year birthday in the allure of our beloved jewel, beautiful Sarasota. Together with our friends Pieter and Susan Kohnstam, children of the Holocaust. Exhanging great books of history, Pieter Kohnstam's: 'A Chance to Live' and Daniel Levin's: 'Violins and Hope' " %}
+description="Celebrating our son Victor 13th year birthday in the allure of our beloved jewel, beautiful Sarasota. Together with our friends Pieter and Susan Kohnstam, children of the Holocaust. Exhanging great books of history, Pieter Kohnstam's: 'A Chance to Live' and Daniel Levin's: 'Violins and Hope' " %}
 
 {% include gimage.html url="/images/photos/Steve_Tom_March23.JPG" 
-description="A unique friendship and oustanding artistic collaboration with Philadelphia based jazz guru, pianist Thomas 'Tom' Lawton. Entering the world of music of the contemporaries, paying tribute to the golden age of my beloved adopted mother-America's twentieth century compositions. Inbetween the Bach, the Mozart and the Rachmaninoff's." %}
+description="A unique friendship and oustanding artistic collaboration with Philadelphia based jazz guru, pianist Thomas 'Tom' Lawton. Entering the world of music of the contemporaries, paying tribute to the golden age of my beloved adopted mother-Americas twentieth century compositions. Inbetween the Bach, the Mozart and the Rachmaninoff." %}
   
 {% include gend.html %} 
 
