@@ -222,7 +222,9 @@ description="Marrying the woman of my life in the midst of the global pandemic h
   
 {% include gimage.html url="/images/photos/ViolinsofHope.JPEG" 
 description="Celebrating our son Victor's 13th year birthday in the allure of our beloved jewel, beautiful Sarasota. Together with our friends Pieter and Susan Kohnstam, children of the Holocaust. Exhanging great books of history, Pieter Kohnstam's: 'A Chance to Live' and Daniel Levin's: 'Violins and Hope' " %}
-    
+
+{% include gimage.html url="/images/photos/Steve_Tom_March23.JPG" 
+description="A unique friendship and oustanding artistic collaboration with Philadelphia based jazz guru, pianist Thomas 'Tom' Lawton. Entering the world of music of the contemporaries, paying tribute to the golden age of my beloved adopted mother-America's twentieth century compositions. Inbetween the Bach, the Mozart and the Rachmaninoff's." %}
   
 {% include gend.html %} 
 
