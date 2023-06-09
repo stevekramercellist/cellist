@@ -220,7 +220,7 @@ description="Luncheon following artistic collaboration with my dearest friend, a
 {% include gimage.html url="/images/photos/annasteve.JPG" 
 description="Marrying the woman of my life in the midst of the global pandemic heist, my beloved wife Anechka. December 7, 2020." %}
   
-{% include gimage.html url="/images/photos/ViolinsofHope.JPEG" 
+{% include gimage.html url="/images/photos/ViolinsofHope.jpeg" 
 description="Celebrating our son Victor 13th year birthday in the allure of our beloved jewel, beautiful Sarasota. Together with our friends Pieter and Susan Kohnstam, children of the Holocaust. Exhanging great books of history, Pieter Kohnstam's: 'A Chance to Live' and Daniel Levin's: 'Violins and Hope' " %}
 
 {% include gimage.html url="/images/photos/Steve_Tom_March23.JPG" 
