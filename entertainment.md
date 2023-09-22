@@ -3,7 +3,11 @@ title: Steve Kramer Entertainment ‹ Steve Kramer Cellist
 layout: sidebar
 <meta name="description" content="Hire a cellist or strings in Sarasota, Florida.">
 ---
-# The Steve Kramer Entertainment Group 
+# The Steve Kramer Entertainment Group
+
+<center><a href="https://www.gigsalad.com/steve_kramer_philadelphia#reviews"><img src="https://www.gigsalad.com/profile/reviews-badge/160790/normal/blue" alt="Reviews on GigSalad" class="center2" height="128" width="108"></a></center><br />
+
+<br/><br/>
 
 ![Cellist in Sarasota Florida at Radio City Music Hall](/images/photos/radiocity1021.jpg)
 
@@ -63,11 +67,7 @@ Steve Kramer Entertainment Group’s performance experiences have reached presti
 The Steve Kramer Entertainment Group welcomes your generous donation-gifts of music instruments and accessories in Sarasota, Florida and beyond. If you are able to make a contribution, please contact Steve Kramer using the [contact form](http://stevekramercellist.com/contact.html). <br />
  
  <br/><br/>
-## Our Reviews
 
-<center><a href="https://www.gigsalad.com/steve_kramer_philadelphia#reviews"><img src="https://www.gigsalad.com/profile/reviews-badge/160790/normal/blue" alt="Reviews on GigSalad" class="center2" height="128" width="108"></a></center><br />
-
-<br/><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_CKfFe2qMKc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T934MKCbFhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br />
