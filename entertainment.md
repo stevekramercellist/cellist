@@ -1,10 +1,10 @@
 ---
-title:Steve Kramer Entertainment ‹ Steve Kramer Cellist
-layout:sidebar
+title: Steve Kramer Entertainment ‹ Steve Kramer Cellist
+layout: sidebar
 <meta name="description" content="Hire a cellist or strings in Sarasota, Florida.">
 ---
 
-# The Steve Kramer Entertainment Group <center><a href="https://www.gigsalad.com/steve_kramer_philadelphia#reviews"><img src="https://www.gigsalad.com/profile/reviews-badge/160790/normal/blue" alt="Reviews on GigSalad" class="center2" height="60" width="40"></a></center>
+# The Steve Kramer Entertainment Group <a href="https://www.gigsalad.com/steve_kramer_philadelphia#reviews"><img src="https://www.gigsalad.com/profile/reviews-badge/160790/normal/blue" alt="Reviews on GigSalad" class="center2" height="60" width="40"></a>
 
 <br/>
 
