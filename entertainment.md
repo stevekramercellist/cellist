@@ -6,7 +6,7 @@ layout: sidebar
 
 
  
-# The Steve Kramer Entertainment Group <a href="https://www.gigsalad.com/steve_kramer_philadelphia#reviews"><img src="https://www.gigsalad.com/profile/reviews-badge/160790/normal/blue" alt="Reviews on GigSalad" class="center2" height="60" width="40" style="float: right"></a>
+# The Steve Kramer Entertainment Group <a href="https://www.gigsalad.com/steve_kramer_philadelphia#reviews"><img src="https://www.gigsalad.com/profile/reviews-badge/160790/normal/blue" alt="Reviews on GigSalad" class="center2" height="60" width="40" style="float: left"></a>
  
 
 ![Cellist in Sarasota Florida at Radio City Music Hall](/images/photos/radiocity1021.jpg)
