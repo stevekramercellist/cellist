@@ -44,25 +44,5 @@ The Steve Kramer Entertainment Group welcomes your generous donation-gifts of mu
 
 ![Our Clients](/images/clientlogos2.jpg) <br />
 
-<iframe width="15%" height="315" src="https://www.youtube.com/embed/2LbTcH46fZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="15%" height="315" src="https://www.youtube.com/embed/MP3QvP6dPr4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<br/>
-## Cello Performances by Steve Kramer<br />
-
-For a full library of cello performances by Steve Kramer, please visit the dedicated [video page](http://stevekramercellist.com/videos.html).
-
-<iframe width="100" height="100" src="https://www.youtube.com/embed/B8a7X9Srm5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="15%" height="315" src="https://www.youtube.com/embed/Gc3pu0w7O8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="15%" height="315" src="https://www.youtube.com/embed/iaUypsNeY08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="15%" height="315" src="https://www.youtube.com/embed/_JSeHfjrcbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="15%" height="315" src="https://www.youtube.com/embed/_QzBoGfGopA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<br/>
 
 
