@@ -4,7 +4,10 @@ layout: sidebar
 <meta name="description" content="Hire a cellist or strings in Sarasota, Florida.">
 ---
 
- <right><a href="https://www.gigsalad.com/steve_kramer_philadelphia#reviews"><img src="https://www.gigsalad.com/profile/reviews-badge/160790/normal/blue" alt="Reviews on GigSalad" class="center2" height="60" width="40"></a></right> # The Steve Kramer Entertainment Group
+
+
+<a href="https://www.gigsalad.com/steve_kramer_philadelphia#reviews"><img src="https://www.gigsalad.com/profile/reviews-badge/160790/normal/blue" alt="Reviews on GigSalad" class="center2" height="60" width="40" style="float: right"></a> <h1>The Steve Kramer Entertainment Group</h1>
+ 
 
 ![Cellist in Sarasota Florida at Radio City Music Hall](/images/photos/radiocity1021.jpg)
 
