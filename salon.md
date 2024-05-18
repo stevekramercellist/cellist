@@ -5,8 +5,7 @@ layout: sidebar
 
 <!-- TABLE_GENERATE_START -->
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-|{% include gimage.html url="/images/celloillust.png" %}  | Content Cell  |
+
+| Content Cell | {% include gimage.html url="/images/celloillust.png" %}   |
 
 <!-- TABLE_GENERATE_END -->
