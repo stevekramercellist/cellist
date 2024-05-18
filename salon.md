@@ -1,7 +1,4 @@
----
-title: Pedagogy ‹ Steve Kramer Cellist
-layout: sidebar
----
+
 
 <!-- TABLE_GENERATE_START -->
 
