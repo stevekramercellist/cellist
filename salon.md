@@ -1,6 +1,6 @@
 ---
 title: Music Salon of Sarasota ‹ Steve Kramer Cellist
-layout: {% include gimage.html url="/images/celloillust.png" %}
+<!--layout: sidebar-->
 ---
 
 <!-- TABLE_GENERATE_START -->
