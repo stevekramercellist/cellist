@@ -7,6 +7,6 @@ layout: sidebar
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-|{% include gimage.html url="/images/grandmother.jpg" %}  | Content Cell  |
+|{% include gimage.html url="/images/celloillust.png" %}  | Content Cell  |
 
 <!-- TABLE_GENERATE_END -->
