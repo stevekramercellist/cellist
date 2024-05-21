@@ -3,7 +3,7 @@ title: Music Salon of Sarasota ‹ Steve Kramer Cellist
 layout: cellosidebar
 ---
 # MUSIC SALON OF SARASOTA
-MUSIC SALON OF SARASOTA by Steve Kramer was launched April 7th of 2024 together with Steve’s wife, Anna Kramer and children Emilia and Victor, presenting ‘Artists of Honor’, the legendary jazz pianist Dick Hyman and Sculptor Julia Hyman.
+Music Salon of Sarasota by Steve Kramer was launched April 7th of 2024 together with Steve’s wife, Anna Kramer and children Emilia and Victor, presenting ‘Artists of Honor’, the legendary jazz pianist Dick Hyman and Sculptor Julia Hyman.
 
 The sought-after and immensely popular Music Salon is conducted every first Sunday of the month and Steve Kramer brings together an international community of musicians, artists, authors, poets, painters, sculptors, and photographers—many of whom are both friends and colleagues—to play all periods, genres, and styles of music and exhibiting their artwork. 
 
