@@ -228,8 +228,7 @@ description="A unique friendship and oustanding artistic collaboration with Phil
 
 {% include gimage.html url="/images/photos/IMG_SteveVictor.jpg" description="Victor & Steve"%}
 
-{% include gimage.html url="/images/photos/IMG_Salon.jpg" 
-description="Music Salon of Sarasota by Steve Kramer was launched April 7th of 2024 together with Steve’s wife, Anna Kramer, daughter Emilia, and son Victor, presenting ‘Artists of Honor’, the legendary respected and beloved jazz pianist Dick Hyman and Sculptor Julia Hyman. The sought-after and immensely popular Music Salon is conducted every first Sunday of the month, and Steve Kramer brings together an international community of musicians, artists, authors, poets, painters, sculptors, and photographers—many of whom are both friends and colleagues—to play all periods, genres, and styles of music and exhibiting their artwork. The Salon requires a donation which is given as an honorarium to guest musicians. All extra donations are welcomed and support the performing musicians and artists. Each guest is also invited to bring an hors d’oeuvre, desert, or wine for an intermission buffet. Steve, Anna, Emilia and Victor will welcome you with open arms and share a most unique, fun, and fiery musical experience. Music Salon of Sarasota starts at 3 PM., and doors open 2:45 PM., and parking is free. Children have free access and the premises are protected 24/7 by live security guards and surveillance cameras all around the property." %}
+{% include gimage.html url="/images/photos/IMG_Salon.jpg"%}
 
 {% include gend.html %} 
 
