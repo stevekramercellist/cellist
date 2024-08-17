@@ -226,7 +226,7 @@ description="Celebrating our son Victor's 13th year birthday in the allure of ou
 {% include gimage.html url="/images/photos/Steve_Tom_March23.jpg" 
 description="A unique friendship and oustanding artistic collaboration with Philadelphia based jazz guru, pianist Thomas 'Tom' Lawton. Entering the world of music of the contemporaries, paying tribute to the golden age of my beloved adopted mother-America's twentieth century compositions. Inbetween the Bach, the Mozart and the Rachmaninoff's." %}
 
-{% include gimage.html url="/images/photos/IMG_SteveVictor.jpg" %}
+{% include gimage.html url="/images/photos/IMG_SteveVictor.jpg" description="Victor & Steve"%}
 
 
 {% include gend.html %} 
