@@ -9,7 +9,7 @@ layout: sidebar
 E-mail: [stevekramermusic@gmail.com](mailto:stevekramermusic@gmail.com) 
 
 [![facebook]({{ site.baseurl }}/images/favicon/facebook.png) Facebook](https://www.facebook.com/steve.kramer.792303) | 
-[![instagram]({{ site.baseurl }}/images/favicon/instagram.png) Instagram](https://www.instagram.com/stevekramercellist/) | 
+[![instagram]({{ site.baseurl }}/images/favicon/instagram.png) Instagram](https://www.instagram.com/stevekramerentertainmentgroup/) | 
 [![linkedin]({{ site.baseurl }}/images/favicon/linkedin.png) LinkedIn](https://www.linkedin.com/public-profile/in/steve-kramer-a3443b1a6?challengeId=AQHZQOy_XqKhkgAAAXcmUwf5Fq6LGcdtFH0zRMYLr_H4jlVlGFkwlUMzfYQwNR9EX4OfnWoZA3FgSavnSOqGNqMg8V26cY0QOA&submissionId=5148fd64-8854-5c16-22ea-6517f578c767)
 
 
