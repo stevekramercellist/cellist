@@ -71,6 +71,14 @@ layout: wider
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/DUEFpFXez18" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="390" height="220" src="https://www.youtube.com/embed/xI-hmS7yOZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="390" height="220" src="https://www.youtube.com/embed/6R4LZr87IlI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="390" height="220" src="https://www.youtube.com/embed/TW3BsQYkxH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="390" height="220" src="https://www.youtube.com/embed/yBp8thl4c0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="390" height="220" src="https://www.youtube.com/embed/NZnaQidNmhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/gYcWoCzI7yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
