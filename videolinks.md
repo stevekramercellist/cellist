@@ -7,7 +7,7 @@ layout: wider
 <img class="pure-img" style="margin-top:20px;" src="{{ site.baseurl }}/images/PreludeBach1006T.jpg">
 </a>
 
-<a href="https://www.youtube.com/watch?v=pqaGUVajMUo&t=5s">
+<a href="https://www.youtube.com/watch?v=pqaGUVajMUo&t=5s" target="_blank">
 <img class="pure-img" style="margin-top:20px;" src="{{ site.baseurl }}/images/PreludeBach1006T.jpg">
 </a>
 <!---<iframe width="390" height="220" src="https://www.youtube.com/embed/pqaGUVajMUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
