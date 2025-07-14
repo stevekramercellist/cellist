@@ -3,7 +3,7 @@ title: Videos ‹ Steve Kramer Cellist
 layout: wider
 ---
 
-<a href="https://www.youtube.com/embed/pqaGUVajMUo">
+<a href="https://www.youtube.com/embed/pqaGUVajMUo" target="_blank">
 <img class="pure-img" style="margin-top:20px;" src="{{ site.baseurl }}/images/PreludeBach1006T.jpg">
 </a>
 
