@@ -2,8 +2,8 @@
 title: Videos ‹ Steve Kramer Cellist
 layout: wider
 ---
+<img class="pure-img" style="margin-top:20px;" src="{{ site.baseurl }}/images/BachPrelude1006T.jpg">
 
-<figure><img src="images/BachPrelude1006T.jpg"><figcaption>Test</figcaption></figure>
 <iframe width="390" height="220" src="https://www.youtube.com/embed/pqaGUVajMUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/yAXNy-Jj8r0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
