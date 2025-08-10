@@ -7,7 +7,7 @@ layout: wider
 <img class="pure-img" style="margin-top:20px;width:390px;height:220px;" src="{{ site.baseurl }}/images/PreludeBach1006T.jpg">
 </a>
 
-<a href="https://www.youtube.com/watch?v=pqaGUVajMUo&t=5s" target="_blank">
+<a href="https://www.youtube.com/watch?v=pqaGUVajMUo" target="_blank">
 <img class="pure-img" style="margin-top:20px;width:390px;height:220px;" src="{{ site.baseurl}}/images/PreludeBach1006T.jpg">
 </a>
 
