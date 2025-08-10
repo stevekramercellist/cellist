@@ -3,17 +3,19 @@ title: Videos ‹ Steve Kramer Cellist
 layout: wider
 ---
 
-<a href="https://www.youtube.com/embed/pqaGUVajMUo" target="_blank">
+<!--<a href="https://www.youtube.com/embed/pqaGUVajMUo" target="_blank">
 <img class="pure-img" style="margin-top:20px;width:390px;height:220px;" src="{{ site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
-</a>
+</a>-->
 
 <a href="https://www.youtube.com/watch?v=pqaGUVajMUo" target="_blank">
 <img class="pure-img" style="margin-top:20px;width:390px;height:220px;" src="{{ site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
 </a>
 
-<!--<iframe width="390" height="220" src="https://www.youtube.com/embed/pqaGUVajMUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=yAXNy-Jj8r0" target="_blank">
+<img class="pure-img" style="margin-top:20px;width:390px;height:220px;" src="{{ site.baseurl}}/images/video_images/Chaconne_img">
+</a>
 
-<iframe width="390" height="220" src="https://www.youtube.com/embed/yAXNy-Jj8r0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--<iframe width="390" height="220" src="https://www.youtube.com/embed/yAXNy-Jj8r0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/zc3FvvbxjEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
