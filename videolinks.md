@@ -15,13 +15,8 @@ layout: wider
 <img class="pure-img" style="width:390px;height:220px;" src="{{ site.baseurl}}/images/video_images/Chaconne_img.png">
 </a>-->
 
-<iframe id="person1" frameborder="0" src="data:text/html;charset=utf-8,
-    <body>
-        <a href="https://www.youtube.com/watch?v=yAXNy-Jj8r0" target="_blank">
-            <img class="pure-img" style="width:390px;height:220px;" src="{{ site.baseurl}}/images/video_images/Chaconne_img.png">
-        </a>
-    </body>">
-</iframe>
+<iframe frameborder="0" src="data:text/html;charset=utf-8,<body><a href="https://www.youtube.com/watch?v=yAXNy-Jj8r0" target="_blank"><img class="pure-img" style="width:390px;height:220px;" src="{{ site.baseurl}}/images/video_images/Chaconne_img.png"></a>
+</body>"></iframe>
 
 <!--<a href="https://www.youtube.com/watch?v=yAXNy-Jj8r0" target="_blank">
 <iframe src="{{ site.baseurl}}/images/video_images/Chaconne_img.png" ></iframe>
