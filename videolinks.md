@@ -16,7 +16,7 @@ layout: wider
 </a>-->
 
 <a href="https://www.youtube.com/watch?v=yAXNy-Jj8r0" target="_blank">
-<iframe width="390" height="220" src="{{ site.baseurl}}/images/video_images/Chaconne_img.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="{{ site.baseurl}}/images/video_images/Chaconne_img.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </a>
 
 <!--<iframe width="390" height="220" src="https://www.youtube.com/embed/zc3FvvbxjEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
