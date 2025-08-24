@@ -13,14 +13,14 @@ layout: wider
 <table>
   
   <tr>
-    <td valign="top"><a href="https://www.youtube.com/watch?v=pqaGUVajMUo" target="_blank">
-<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
+    <td valign="top"><a href="https://www.youtube.com/embed/pqaGUVajMUo" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
 </a></td>
-    <td valign="top"><a href="https://www.youtube.com/watch?v=pqaGUVajMUo" target="_blank">
-<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
+    <td valign="top"><a href="https://www.youtube.com/embed/pqaGUVajMUo" target="_blank">
+<img class="pure-img"  src="{{site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
 </a></td>
-    <td valign="top"><a href="https://www.youtube.com/watch?v=pqaGUVajMUo" target="_blank">
-<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
+    <td valign="top"><a href="https://www.youtube.com/embed/pqaGUVajMUo" target="_blank">
+<img class="pure-img"  src="{{site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
 </a></td>
   </tr>
  </table>
