@@ -114,13 +114,13 @@ layout: wider
   </tr> 
 <tr>     
 <td valign="top"><a href="https://www.youtube.com/embed/4d7cP4vn5BI" target="_blank">
-<img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1007Minuet.png">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1010Sarabande.png">
 </a></td>
     <td valign="top"><a href="https://www.youtube.com/embed/mxpX0RJ8pYs" target="_blank">
-<img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1008Allemande.png">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1007Minuet.png">
 </a></td>
     <td valign="top"><a href="https://www.youtube.com/embed/N9i8uRyiTQw" target="_blank">
-<img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1009Bouree.png">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1008Allemande.png">
 </a></td>
   </tr>   
  </table>
