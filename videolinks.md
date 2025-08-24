@@ -14,25 +14,25 @@ layout: wider
   
   <tr>
     <td valign="top"><a href="https://www.youtube.com/embed/pqaGUVajMUo" target="_blank">
-<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
+<img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
 </a></td>
     <td valign="top"><a href="https://www.youtube.com/embed/yAXNy-Jj8r0" target="_blank">
-<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/Chaconne_img.png">
+<img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/Chaconne_img.png">
 </a></td>
     <td valign="top"><a href="https://www.youtube.com/embed/zc3FvvbxjEY" target="_blank">
-<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/BWV1008Sarabanda.png">
+<img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/BWV1008Sarabanda.png">
 </a></td>
   </tr>
 
   <tr>
     <td valign="top"><a href="https://www.youtube.com/embed/-c5H_flw7tM" target="_blank">
-<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/ViolinSanatas.png">
+<img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/ViolinSanatas.png">
 </a></td>
     <td valign="top"><a href="https://www.youtube.com/embed/dhLBI0udTpk" target="_blank">
-<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/Passacaglia.png">
+<img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/Passacaglia.png">
 </a></td>
     <td valign="top"><a href="https://www.youtube.com/embed/LAf57ZN-X_E" target="_blank">
-<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/ViolinSanatasGigue.png">
+<img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/ViolinSanatasGigue.png">
 </a></td>
   </tr>
 
@@ -48,7 +48,8 @@ layout: wider
 </a></td>
   </tr>
 
-      <td valign="top"><a href="https://www.youtube.com/embed/JXN-Gl1hIpM" target="_blank">
+<tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/JXN-Gl1hIpM" target="_blank">
 <img class="pure-img" style="width:30%;" src="{{site.baseurl}}/images/video_images/BWV1012Allemande  .png">
 </a></td>
     <td valign="top"><a href="https://www.youtube.com/embed/TLEbWjNOrN4" target="_blank">
