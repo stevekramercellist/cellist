@@ -23,13 +23,20 @@ layout: wider
 <img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/BWV1008Sarabanda.png">
 </a></td>
   </tr>
- </table>
-<!--<a href="https://www.youtube.com/watch?v=yAXNy-Jj8r0" target="_blank">
-<img class="pure-img" style="width:390px;height:220px;" src="{{ site.baseurl}}/images/video_images/Chaconne_img.png">
-</a>-->
 
-<!--<iframe frameborder="0" src="data:text/html;charset=utf-8,<body><a href='https://www.youtube.com/watch?v=yAXNy-Jj8r0' target='_blank'><img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/Chaconne_img.png"></a>
-</body>"></iframe>-->
+  <tr>
+    <td valign="top"><a href="https://www.youtube.com/embed/-c5H_flw7tM" target="_blank">
+<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/ViolinSanatas.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/dhLBI0udTpk" target="_blank">
+<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/Passacaglia.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/LAf57ZN-X_E" target="_blank">
+<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/ViolinSanatasGigue.png">
+</a></td>
+  </tr>
+  
+ </table>
 
 
 
@@ -37,13 +44,7 @@ layout: wider
 <iframe src="{{ site.baseurl}}/images/video_images/Chaconne_img.png" ></iframe>
 </a>-->
 
-<!--<iframe width="390" height="220" src="https://www.youtube.com/embed/zc3FvvbxjEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/-c5H_flw7tM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/dhLBI0udTpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/LAf57ZN-X_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/wHqMMptf0cc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
