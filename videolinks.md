@@ -40,34 +40,34 @@ layout: wider
     <td valign="top"><a href="https://www.youtube.com/embed/wHqMMptf0cc" target="_blank">
 <img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/BWV1009Sarabande.png">
 </a></td>
-    <td valign="top"><a href="https://www.youtube.com/embed/wHqMMptf0cc" target="_blank">
+    <td valign="top"><a href="https://www.youtube.com/embed/KduBL_GeDFo" target="_blank">
 <img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/BWV1007Prelude.png">
 </a></td>
-    <td valign="top"><a href="https://www.youtube.com/embed/KduBL_GeDFo" target="_blank">
+    <td valign="top"><a href="https://www.youtube.com/embed/JXN-Gl1hIpM" target="_blank">
 <img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/BWV1007Sarabande.png">
 </a></td>
   </tr>
 
 <tr>     
-<td valign="top"><a href="https://www.youtube.com/embed/JXN-Gl1hIpM" target="_blank">
+<td valign="top"><a href="https://www.youtube.com/embed/TLEbWjNOrN4" target="_blank">
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1012Allemande.png">
 </a></td>
-    <td valign="top"><a href="https://www.youtube.com/embed/TLEbWjNOrN4" target="_blank">
+    <td valign="top"><a href="https://www.youtube.com/embed/pYc8ebSXt6c" target="_blank">
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1012Courante.png">
 </a></td>
-    <td valign="top"><a href="https://www.youtube.com/embed/pYc8ebSXt6c" target="_blank">
+    <td valign="top"><a href="https://www.youtube.com/embed/X_qbJanFdXE" target="_blank">
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1011Sarabande.png">
 </a></td>
   </tr>
 
 <tr>     
-<td valign="top"><a href="https://www.youtube.com/embed/X_qbJanFdXE" target="_blank">
+<td valign="top"><a href="https://www.youtube.com/embed/NC0gFlEVw80" target="_blank">
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/Libertango.png">
 </a></td>
-    <td valign="top"><a href="https://www.youtube.com/embed/NC0gFlEVw80" target="_blank">
+    <td valign="top"><a href="https://www.youtube.com/embed/dLkXyKqRA8U" target="_blank">
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/OblivionTakeA.png">
 </a></td>
-    <td valign="top"><a href="https://www.youtube.com/embed/dLkXyKqRA8U" target="_blank">
+    <td valign="top"><a href="https://www.youtube.com/embed/e-ffhrN7XXY" target="_blank">
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/OblivionTakeB.png">
 </a></td>
   </tr>
