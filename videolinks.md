@@ -156,7 +156,17 @@ layout: wider
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/Summertime.png">
 </a></td>
   </tr> 
-  
+    <tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/QH73YN6d0Tk" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/Jobim.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/0Ib-PQeYbjM" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/AutumnLeaves.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/rAciSfdQNdU" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/MusicalRoad.png">
+</a></td>
+  </tr> 
  </table>
 
 <!--<a href="https://www.youtube.com/watch?v=yAXNy-Jj8r0" target="_blank">
@@ -164,11 +174,6 @@ layout: wider
 </a>-->
 <!-- 
 
-<iframe width="390" height="220" src="https://www.youtube.com/embed/QH73YN6d0Tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/0Ib-PQeYbjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/rAciSfdQNdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/MP3QvP6dPr4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
