@@ -83,20 +83,27 @@ layout: wider
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/Kaleidoscope.png">
 </a></td>
   </tr>  
- </table>
 
+<tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/4b5nX0hdUks" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/KramerLawtonFrank.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/1WbwSUiEftA" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/PandemicJam.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/jtKueNajxBc" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/ExoticBirds.png">
+</a></td>
+  </tr> 
+
+  
+ </table>
 
 <!--<a href="https://www.youtube.com/watch?v=yAXNy-Jj8r0" target="_blank">
 <iframe src="{{ site.baseurl}}/images/video_images/Chaconne_img.png" ></iframe>
 </a>-->
 
 <!--
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/4b5nX0hdUks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/1WbwSUiEftA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/jtKueNajxBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/_iYkT1yTTcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
