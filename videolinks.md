@@ -53,9 +53,21 @@ layout: wider
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1012Allemande.png">
 </a></td>
     <td valign="top"><a href="https://www.youtube.com/embed/TLEbWjNOrN4" target="_blank">
-<img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1012Courante.png">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/OblivionTakeA.png">
 </a></td>
     <td valign="top"><a href="https://www.youtube.com/embed/pYc8ebSXt6c" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/OblivionTakeB.png">
+</a></td>
+  </tr>
+
+<tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/X_qbJanFdXE" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/Libertango.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/NC0gFlEVw80" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1012Courante.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/dLkXyKqRA8U" target="_blank">
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1011Sarabande.png">
 </a></td>
   </tr>
@@ -69,13 +81,7 @@ layout: wider
 </a>-->
 
 <!--
-  
 
-<iframe width="390" height="220" src="https://www.youtube.com/embed/X_qbJanFdXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/NC0gFlEVw80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/dLkXyKqRA8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/e-ffhrN7XXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
