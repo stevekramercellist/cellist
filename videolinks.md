@@ -53,10 +53,10 @@ layout: wider
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1012Allemande.png">
 </a></td>
     <td valign="top"><a href="https://www.youtube.com/embed/TLEbWjNOrN4" target="_blank">
-<img class="pure-img" src="{{site.baseurl}}/images/video_images/OblivionTakeA.png">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1012Courante.png">
 </a></td>
     <td valign="top"><a href="https://www.youtube.com/embed/pYc8ebSXt6c" target="_blank">
-<img class="pure-img" src="{{site.baseurl}}/images/video_images/OblivionTakeB.png">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1011Sarabande.png">
 </a></td>
   </tr>
 
@@ -65,10 +65,10 @@ layout: wider
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/Libertango.png">
 </a></td>
     <td valign="top"><a href="https://www.youtube.com/embed/NC0gFlEVw80" target="_blank">
-<img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1012Courante.png">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/OblivionTakeA.png">
 </a></td>
     <td valign="top"><a href="https://www.youtube.com/embed/dLkXyKqRA8U" target="_blank">
-<img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1011Sarabande.png">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/OblivionTakeB.png">
 </a></td>
   </tr>
 
