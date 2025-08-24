@@ -23,7 +23,6 @@ layout: wider
 <img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/BWV1008Sarabanda.png">
 </a></td>
   </tr>
-
   <tr>
     <td valign="top"><a href="https://www.youtube.com/embed/-c5H_flw7tM" target="_blank">
 <img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/ViolinSanatas.png">
@@ -35,7 +34,6 @@ layout: wider
 <img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/ViolinSanatasGigue.png">
 </a></td>
   </tr>
-
   <tr>
     <td valign="top"><a href="https://www.youtube.com/embed/wHqMMptf0cc" target="_blank">
 <img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/BWV1009Sarabande.png">
@@ -47,7 +45,6 @@ layout: wider
 <img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/BWV1007Sarabande.png">
 </a></td>
   </tr>
-
 <tr>     
 <td valign="top"><a href="https://www.youtube.com/embed/TLEbWjNOrN4" target="_blank">
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1012Allemande.png">
@@ -59,7 +56,6 @@ layout: wider
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1011Sarabande.png">
 </a></td>
   </tr>
-
 <tr>     
 <td valign="top"><a href="https://www.youtube.com/embed/NC0gFlEVw80" target="_blank">
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/Libertango.png">
@@ -71,7 +67,6 @@ layout: wider
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/OblivionTakeB.png">
 </a></td>
   </tr>
-
 <tr>     
 <td valign="top"><a href="https://www.youtube.com/embed/XRM9EzBNEQU" target="_blank">
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/ChildsPlay.png">
@@ -83,7 +78,6 @@ layout: wider
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/Kaleidoscope.png">
 </a></td>
   </tr>  
-
 <tr>     
 <td valign="top"><a href="https://www.youtube.com/embed/4b5nX0hdUks" target="_blank">
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/KramerLawtonFrank.png">
@@ -95,7 +89,17 @@ layout: wider
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/ExoticBirds.png">
 </a></td>
   </tr> 
-
+<tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/_iYkT1yTTcA" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/JustBeFrankLiveFeed.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/h9Dzc1FvrsE" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/PhiladelphiaMelancholia.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/JLN3Fr_8b14" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/RachmaninoffDuo.png">
+</a></td>
+  </tr> 
   
  </table>
 
@@ -105,10 +109,6 @@ layout: wider
 
 <!--
 
-<iframe width="390" height="220" src="https://www.youtube.com/embed/_iYkT1yTTcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/h9Dzc1FvrsE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="390" height="220" src="https://www.youtube.com/embed/JLN3Fr_8b14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/K5L-chcm4a4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
