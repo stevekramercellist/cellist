@@ -112,7 +112,17 @@ layout: wider
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1009Gigue.png">
 </a></td>
   </tr> 
-  
+<tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/4d7cP4vn5BI" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1007Minuet.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/mxpX0RJ8pYs" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1008Allemande.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/N9i8uRyiTQw" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/BWV1009Bouree.png">
+</a></td>
+  </tr>   
  </table>
 
 <!--<a href="https://www.youtube.com/watch?v=yAXNy-Jj8r0" target="_blank">
@@ -120,12 +130,6 @@ layout: wider
 </a>-->
 
 <!--
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/4d7cP4vn5BI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/mxpX0RJ8pYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/N9i8uRyiTQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/q1s4KpbMtdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
