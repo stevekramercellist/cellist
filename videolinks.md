@@ -72,7 +72,17 @@ layout: wider
 </a></td>
   </tr>
 
-  
+<tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/XRM9EzBNEQU" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/ChildsPlay.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/VtjWkZT1Lxs" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/JustBeFrank.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/U3En89lhGlw" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/Kaleidoscope.png">
+</a></td>
+  </tr>  
  </table>
 
 
@@ -81,15 +91,6 @@ layout: wider
 </a>-->
 
 <!--
-
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/e-ffhrN7XXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/XRM9EzBNEQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/VtjWkZT1Lxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/U3En89lhGlw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/4b5nX0hdUks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
