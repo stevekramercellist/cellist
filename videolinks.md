@@ -38,13 +38,13 @@ layout: wider
 
   <tr>
     <td valign="top"><a href="https://www.youtube.com/embed/wHqMMptf0cc" target="_blank">
-<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/BWV1009Sarabande.png">
+<img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/BWV1009Sarabande.png">
 </a></td>
     <td valign="top"><a href="https://www.youtube.com/embed/wHqMMptf0cc" target="_blank">
-<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/BWV1007Prelude.png">
+<img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/BWV1007Prelude.png">
 </a></td>
     <td valign="top"><a href="https://www.youtube.com/embed/KduBL_GeDFo" target="_blank">
-<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/BWV1007Sarabande.png">
+<img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/BWV1007Sarabande.png">
 </a></td>
   </tr>
  </table>
