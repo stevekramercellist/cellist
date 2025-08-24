@@ -47,8 +47,20 @@ layout: wider
 <img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/BWV1007Sarabande.png">
 </a></td>
   </tr>
- </table>
 
+      <td valign="top"><a href="https://www.youtube.com/embed/JXN-Gl1hIpM" target="_blank">
+<img class="pure-img" style="width:30%;" src="{{site.baseurl}}/images/video_images/BWV1012Allemande  .png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/TLEbWjNOrN4" target="_blank">
+<img class="pure-img" style="width:30%" src="{{site.baseurl}}/images/video_images/BWV1012Courante.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/pYc8ebSXt6c" target="_blank">
+<img class="pure-img" style="width:30%" src="{{site.baseurl}}/images/video_images/BWV1011Sarabande.png">
+</a></td>
+  </tr>
+
+  
+ </table>
 
 
 <!--<a href="https://www.youtube.com/watch?v=yAXNy-Jj8r0" target="_blank">
@@ -56,13 +68,7 @@ layout: wider
 </a>-->
 
 <!--
-
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/JXN-Gl1hIpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/TLEbWjNOrN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/pYc8ebSXt6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/X_qbJanFdXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
