@@ -21,23 +21,6 @@ layout: wider
 
 ![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=4)
 
-
-<a href="https://www.youtube.com/watch?v=pqaGUVajMUo" target="_blank">
-<img src="{{site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
-</a>
-
-<a href="https://www.youtube.com/watch?v=pqaGUVajMUo" target="_blank">
-<img  src="{{site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
-</a>
-
-<a href="https://www.youtube.com/watch?v=pqaGUVajMUo" target="_blank">
-<img  src="{{site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
-</a>
-
-<a href="https://www.youtube.com/watch?v=pqaGUVajMUo" target="_blank">
-<img src="{{site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
-</a>
-
 </div>
 <a href="https://www.youtube.com/watch?v=pqaGUVajMUo" target="_blank">
 <img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
