@@ -35,7 +35,18 @@ layout: wider
 <img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/ViolinSanatasGigue.png">
 </a></td>
   </tr>
-  
+
+  <tr>
+    <td valign="top"><a href="https://www.youtube.com/embed/wHqMMptf0cc" target="_blank">
+<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/BWV1009Sarabande.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/wHqMMptf0cc" target="_blank">
+<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/BWV1007Prelude.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/KduBL_GeDFo" target="_blank">
+<img class="pure-img" style="width:390px;height:220px;" src="{{site.baseurl}}/images/video_images/BWV1007Sarabande.png">
+</a></td>
+  </tr>
  </table>
 
 
@@ -46,9 +57,6 @@ layout: wider
 
 <!--
 
-<iframe width="390" height="220" src="https://www.youtube.com/embed/wHqMMptf0cc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/KduBL_GeDFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/JXN-Gl1hIpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
