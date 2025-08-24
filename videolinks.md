@@ -16,11 +16,11 @@ layout: wider
     <td valign="top"><a href="https://www.youtube.com/embed/pqaGUVajMUo" target="_blank">
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
 </a></td>
-    <td valign="top"><a href="https://www.youtube.com/embed/pqaGUVajMUo" target="_blank">
-<img class="pure-img"  src="{{site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
+    <td valign="top"><a href="https://www.youtube.com/embed/yAXNy-Jj8r0" target="_blank">
+<img class="pure-img"  src="{{site.baseurl}}/images/video_images/Chaconne_img.png">
 </a></td>
-    <td valign="top"><a href="https://www.youtube.com/embed/pqaGUVajMUo" target="_blank">
-<img class="pure-img"  src="{{site.baseurl}}/images/video_images/PreludeBach1006T.jpg">
+    <td valign="top"><a href="https://www.youtube.com/embed/zc3FvvbxjEY" target="_blank">
+<img class="pure-img"  src="{{site.baseurl}}/images/video_images/BWV1008Sarabanda.png">
 </a></td>
   </tr>
  </table>
