@@ -191,6 +191,18 @@ layout: wider
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/MyOneandOnlyOne.png">
 </a></td>
   </tr>
+
+  <tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/T934MKCbFhg" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/MoonRiver.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/2LbTcH46fZQ" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/LoveIsHereToStay.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/EsgtQhydJnc" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/MyOneandOnlyOneVersion2.png">
+</a></td>
+  </tr>
   
  </table>
 
@@ -198,12 +210,6 @@ layout: wider
 <iframe src="{{ site.baseurl}}/images/video_images/Chaconne_img.png" ></iframe>
 </a>-->
 <!-- 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/T934MKCbFhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/2LbTcH46fZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/EsgtQhydJnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/Og--kzwthIY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
