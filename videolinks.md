@@ -298,6 +298,41 @@ layout: wider
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/TakeIIPleaseDontTalk.png">
 </a></td>
   </tr> 
+
+    <tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/KW0CA2qnyXk" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/MaybeSeptember.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/wycpsNMUm58" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/Dreamsville.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/9w1wOgaus-Y" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/InTheWeeSmallHours.png">
+</a></td>
+  </tr> 
+     <tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/u19vRP4D8ZE" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/RainInMyHeart.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/HEVKSFpOYbE" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/SomeOtherTime.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/qo57wMSqnzk" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/AllMyTomorrows.png">
+</a></td>
+  </tr> 
+
+     <tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/NuXEGINjMkk" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/StreetOfDreams.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/ImsRPfkaW3w" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/YouWillBeMusic.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/W_0StkHVv3A" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/TooLateNow.png">
+</a></td>
+  </tr> 
   
  </table>
 
@@ -306,30 +341,6 @@ layout: wider
 </a>-->
 <!-- 
 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/iiclE7isCBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/4D9LE16kYAE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/nb-uIKCDTQU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/KW0CA2qnyXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/wycpsNMUm58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/9w1wOgaus-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/u19vRP4D8ZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/HEVKSFpOYbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/qo57wMSqnzk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/NuXEGINjMkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/ImsRPfkaW3w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/W_0StkHVv3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/-L9Ml17nT3M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
