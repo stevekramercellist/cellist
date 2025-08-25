@@ -226,18 +226,25 @@ layout: wider
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/CentralParkWest.png">
 </a></td>
   </tr>
+  
+    <tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/xI-hmS7yOZQ" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/ViolinSonatasPresto.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/6R4LZr87IlI" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/ViolinSonatasAllemande.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/TW3BsQYkxH4" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/ViolinSonatasCourante.png">
+</a></td>
+  </tr>
+  
  </table>
 
 <!--<a href="https://www.youtube.com/watch?v=yAXNy-Jj8r0" target="_blank">
 <iframe src="{{ site.baseurl}}/images/video_images/Chaconne_img.png" ></iframe>
 </a>-->
 <!-- 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/xI-hmS7yOZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/6R4LZr87IlI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/TW3BsQYkxH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/yBp8thl4c0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
