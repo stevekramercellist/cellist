@@ -263,7 +263,7 @@ layout: wider
 </a></td>
   </tr> 
 
-     <tr>     
+<tr>     
 <td valign="top"><a href="https://www.youtube.com/embed/LX6TffcAIOU" target="_blank">
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/FallingInLoveWithLove.png">
 </a></td>
@@ -275,6 +275,30 @@ layout: wider
 </a></td>
   </tr> 
   
+<tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/WvUTVge7gWg" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/SummerKnows.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/kNRTJqwZQrA" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/ForAllWeKnow.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/1mfU9ZqReYQ" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/SlowHotWind.png">
+</a></td>
+  </tr> 
+
+  <tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/iiclE7isCBU" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/DaysOfWineAndRoses.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/4D9LE16kYAE" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/MrLucky.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/nb-uIKCDTQU" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/TakeIIPleaseDontTalk.png">
+</a></td>
+  </tr> 
+  
  </table>
 
 <!--<a href="https://www.youtube.com/watch?v=yAXNy-Jj8r0" target="_blank">
@@ -282,11 +306,6 @@ layout: wider
 </a>-->
 <!-- 
 
-<iframe width="390" height="220" src="https://www.youtube.com/embed/WvUTVge7gWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/kNRTJqwZQrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/1mfU9ZqReYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/iiclE7isCBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
