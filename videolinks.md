@@ -203,25 +203,35 @@ layout: wider
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/MyOneandOnlyOneVersion2.png">
 </a></td>
   </tr>
-  
+ <tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/Og--kzwth" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/PinkPanter.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/BA2mbNFuCTk" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/LossofLove.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/uHmAo_Qdfs8" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/FallingInLove.png">
+</a></td>
+  </tr>
+
+  <tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/9GnEoX5H1l0" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/Embraceable.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/rKwRMhRZ9dI" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/AskMeNow.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/DUEFpFXez18" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/CentralParkWest.png">
+</a></td>
+  </tr>
  </table>
 
 <!--<a href="https://www.youtube.com/watch?v=yAXNy-Jj8r0" target="_blank">
 <iframe src="{{ site.baseurl}}/images/video_images/Chaconne_img.png" ></iframe>
 </a>-->
 <!-- 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/Og--kzwthIY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/BA2mbNFuCTk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/uHmAo_Qdfs8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/9GnEoX5H1l0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/rKwRMhRZ9dI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/DUEFpFXez18" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/xI-hmS7yOZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
