@@ -169,14 +169,26 @@ layout: wider
   </tr> 
 
     <tr>     
-<td valign="top"><a href="https://www.youtube.com/embed/SoundOfMusic" target="_blank">
-<img class="pure-img" src="{{site.baseurl}}/images/video_images/myFavoriteThings.png">
+<td valign="top"><a href="https://www.youtube.com/embed/MP3QvP6dPr4" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/TheSoundOfMusic.png">
 </a></td>
     <td valign="top"><a href="https://www.youtube.com/embed/YjNxSban0Lo" target="_blank">
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/myFavoriteThings.png">
 </a></td>
     <td valign="top"><a href="https://www.youtube.com/embed/B8a7X9Srm5w" target="_blank">
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/Edelwiess.png">
+</a></td>
+  </tr>
+
+  <tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/Xs5GasOSbb4" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/OverTheRainbow.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/2sp4w5F_2HY" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/Somewhere.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/L-hz97yc_jo" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/MyOneandOnlyOne.png">
 </a></td>
   </tr>
   
@@ -186,13 +198,6 @@ layout: wider
 <iframe src="{{ site.baseurl}}/images/video_images/Chaconne_img.png" ></iframe>
 </a>-->
 <!-- 
-
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/Xs5GasOSbb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/2sp4w5F_2HY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="390" height="220" src="https://www.youtube.com/embed/L-hz97yc_jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/T934MKCbFhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
