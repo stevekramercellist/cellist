@@ -238,6 +238,19 @@ layout: wider
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/ViolinSonatasCourante.png">
 </a></td>
   </tr>
+
+    <tr>     
+<td valign="top"><a href="https://www.youtube.com/embed/yBp8thl4c0k" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/ViolinSonatasSarabande.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/NZnaQidNmhg" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/Tenderly.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/gYcWoCzI7yY" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/AsTimeGoesBy.png">
+</a></td>
+  </tr>
+  
   
  </table>
 
