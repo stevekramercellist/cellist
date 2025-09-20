@@ -14,7 +14,7 @@ layout: wider
   
   <tr>
      <td valign="top"><a href="https://www.youtube.com/embed/9CLRcYSVVA8" target="_blank">
-<img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/AugustSerenade.jpg">
+<img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/AugustSerenade.png">
 </a></td>
     
     <td valign="top"><a href="https://www.youtube.com/embed/pqaGUVajMUo" target="_blank">
