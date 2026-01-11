@@ -38,6 +38,14 @@ layout: wider
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/xPrNEp90R_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="390" height="220" src="https://www.youtube.com/embed/GnfzbV6J4U4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="390" height="220" src="https://www.youtube.com/embed/L29G_PWzclY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="390" height="220" src="https://www.youtube.com/embed/tAJ8Ua-B9Pk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/9CLRcYSVVA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
