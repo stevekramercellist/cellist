@@ -185,7 +185,18 @@ layout: wider
 </a></td>
 
   </tr>
+<tr> 
+<td valign="top"><a href="https://www.youtube.com/embed/p7DfBINgL14" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/PreludeToAKissXtra.png">
+</a></td> 
+<td valign="top"><a href="https://www.youtube.com/embed/0y3D1ii_ng8" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/LauraXtra.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/jKCfNhpSe60" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/ConcertoDeAranjeuzExtra.png">
+</a></td>
 
+  </tr>
 
 
 <tr> 
