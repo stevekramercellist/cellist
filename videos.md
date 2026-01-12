@@ -149,6 +149,18 @@ layout: wider
 
   </tr> 
 
+<tr> 
+<td valign="top"><a href="https://www.youtube.com/embed/tA6B9xBnltM" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/Corcovado.png">
+</a></td> 
+<td valign="top"><a href="https://www.youtube.com/embed/sBRuTtxMCgg" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/NancyWithALaughingFace.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/10koXqugdZ4" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/SweetAndLovely.png">
+</a></td>
+
+  </tr>
 
 
 
