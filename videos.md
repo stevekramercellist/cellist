@@ -161,7 +161,18 @@ layout: wider
 </a></td>
 
   </tr>
+<tr> 
+<td valign="top"><a href="https://www.youtube.com/embed/xPrNEp90R_c" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/PreludeToAKiss.png">
+</a></td> 
+<td valign="top"><a href="https://www.youtube.com/embed/Gak26vMRoaE" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/Laura.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/_ioO-xpr2Ho" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/Desafinado.png">
+</a></td>
 
+  </tr>
 
 
 
