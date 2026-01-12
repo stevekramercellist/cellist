@@ -123,7 +123,18 @@ layout: wider
 
   </tr> 
 
+<tr> 
+<td valign="top"><a href="https://www.youtube.com/embed/GnfzbV6J4U4" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/ChelseaBridge.png">
+</a></td> 
+<td valign="top"><a href="https://www.youtube.com/embed/tAJ8Ua-B9Pk" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/AngelsEyes.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/nHxMRLjhAbI" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/Stardus.png">
+</a></td>
 
+  </tr> 
 
 
 
