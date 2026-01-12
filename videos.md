@@ -136,6 +136,18 @@ layout: wider
 
   </tr> 
 
+<tr> 
+<td valign="top"><a href="https://www.youtube.com/embed/L29G_PWzclY" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/BeautifulLife.png">
+</a></td> 
+<td valign="top"><a href="https://www.youtube.com/embed/AqK2f-AtVek" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/ConcertoDeAranjuez.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/drwJHTuRtcc" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/DarnThatDream.png">
+</a></td>
+
+  </tr> 
 
 
 
