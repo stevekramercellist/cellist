@@ -111,6 +111,27 @@ layout: wider
   </tr> 
 
 <tr> 
+<td valign="top"><a href="https://www.youtube.com/embed/l6nfm_ooAmM" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/NicasDream.png">
+</a></td> 
+<td valign="top"><a href="https://www.youtube.com/embed/_GkveENo_KA" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/BodyAndSoul.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/hAZDX4p3XNQ" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/NicWorkIfYouCanGetIt.png">
+</a></td>
+
+  </tr> 
+
+
+
+
+
+
+
+
+
+<tr> 
       <td valign="top"><a href="https://www.youtube.com/embed/JLN3Fr_8b14" target="_blank">
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/RachmaninoffDuo.png">
 </a></td>
