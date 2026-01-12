@@ -173,7 +173,18 @@ layout: wider
 </a></td>
 
   </tr>
+<tr> 
+<td valign="top"><a href="https://www.youtube.com/embed/CFUzxuI64z4" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/BodyAndSoulXtra.png">
+</a></td> 
+<td valign="top"><a href="https://www.youtube.com/embed/zkKWclrOqgA" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/ChelseaBridgeXtra.png">
+</a></td>
+    <td valign="top"><a href="https://www.youtube.com/embed/9W4Rrf1yNo4" target="_blank">
+<img class="pure-img" src="{{site.baseurl}}/images/video_images/NancyWithTheLFaceExtra.png">
+</a></td>
 
+  </tr>
 
 
 
