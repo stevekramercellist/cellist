@@ -547,6 +547,8 @@ layout: wider
       <td valign="top"><a href="https://www.youtube.com/embed/Gc3pu0w7O8I" target="_blank">
 <img class="pure-img" src="{{site.baseurl}}/images/video_images/TheStarSplangledBanner.png">
 </a></td>
+    <td valign="top"></td>
+    <td valign="top"></td>
   </tr>
   
  </table>
