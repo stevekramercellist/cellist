@@ -3,6 +3,18 @@ title: Videos ‹ Steve Kramer Cellist
 layout: wider
 ---
 
+<iframe width="390" height="220" src="https://www.youtube.com/embed/3OS3WmhSb3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="390" height="220" src="https://www.youtube.com/embed/wPymt1pOdA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="390" height="220" src="https://www.youtube.com/embed/Bsg-Su_MmoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="390" height="220" src="https://www.youtube.com/embed/fCZ4ZgqBsf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="390" height="220" src="https://www.youtube.com/embed/rQASYnIkOSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 <iframe width="390" height="220" src="https://www.youtube.com/embed/75T9Cm5DFRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="390" height="220" src="https://www.youtube.com/embed/l6nfm_ooAmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
