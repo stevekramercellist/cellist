@@ -27,4 +27,5 @@ The Steve Kramer Entertainment Group welcomes your generous donation-gifts of mu
 
 ## Our Clientele
 
-![Our Clients](/images/clientlogos2.jpg)(/images/HumanistSociety.png)
+![Our Clients](/images/clientlogos2.jpg)
+![Our Clients](/images/clientlogos3.png)
