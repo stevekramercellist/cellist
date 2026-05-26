@@ -233,10 +233,10 @@ description="A unique friendship and oustanding artistic collaboration with Phil
 {% include gimage.html url="/images/photos/IMG_SteveMonty.jpeg" description="Ladies and Gentlemen! Please fasten your seatbelts. My rendition and production of the Passacaglia pays tribute to my childhoods first showpiece as a chamber musician. My first public performance of the Passacaglia materialized at the main synagogue in Copenhagen, Denmark, in Krystalgade. My beloved and dearly missed grandfather by my side, violinist and music pedagogue Vladimir Yeshayavich Novak, introduced to me this fun, fiery, and playful dialogue bounded by two string instruments "%}
 
 
-{% include gimage.html url="/images/photos/SteveSam.jpeg" description="Sam & Steve"%}
-{% include gimage.html url="/images/photos/SteveAnna.jpeg" description="Steve & Anna"%}
-{% include gimage.html url="/images/photos/FamPortrait.jpeg" description="Family"%}
-{% include gimage.html url="/images/photos/SteveSam2.jpeg" description="Steve & Sam"%}
+{% include gimage.html url="/images/photos/SteveSam.jpeg" description="Our beloved Samiki learning to understand the vibrational value of instrumental music's divine effect to the human brain and psyche"%}
+{% include gimage.html url="/images/photos/SteveAnna.jpeg" description="Love & Tradition"%}
+{% include gimage.html url="/images/photos/FamPortrait.jpeg" description="Family forever, and for generations to endure"%}
+{% include gimage.html url="/images/photos/SteveSam2.jpeg" description="Mini-Me"%}
 
 {% include gend.html %} 
 
