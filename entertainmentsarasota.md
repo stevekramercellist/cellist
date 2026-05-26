@@ -47,7 +47,7 @@ The Steve Kramer Entertainment Group welcomes your generous donation-gifts of mu
 
  
 
-## Our Clients from Florida, Pennsylvania, New York, and Beyond
+## Our Clientele
 
 ![Cellist in Sarasota Florida Clients](/images/clientlogos2.jpg) <br />
 
