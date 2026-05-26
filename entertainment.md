@@ -25,6 +25,6 @@ Steve Kramer Entertainment Group’s performance experiences have reached presti
 
 The Steve Kramer Entertainment Group welcomes your generous donation-gifts of music instruments and accessories in Sarasota, Florida and beyond. If you are able to make a contribution, please contact Steve Kramer using the [contact form](http://stevekramercellist.com/contact.html). 
 
-## Our Clients from Florida, Pennsylvania, New York, and Beyond
+## Our Clientele
 
 ![Our Clients](/images/clientlogos2.jpg)
