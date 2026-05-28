@@ -238,7 +238,7 @@ description="A unique friendship and oustanding artistic collaboration with Phil
 {% include gimage.html url="/images/photos/FamPortrait.jpeg" description="Family forever, and for generations to endure"%}
 {% include gimage.html url="/images/photos/SteveSam2.jpeg" description="Mini-Me"%}
 {% include gimage.html url="/images/photos/AugustSerenade.jpeg" description="American Silk Road"%}
-{% include gimage.html url="/images/photos/Bach Prelude.png" description="Bach"%}
+{% include gimage.html url="/images/photos/BachPrelude.png" description="Bach"%}
 {% include gimage.html url="/images/photos/Toccata_Fugue.png" description="Toccata"%}
 
 
