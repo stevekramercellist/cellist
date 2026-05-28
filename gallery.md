@@ -234,12 +234,12 @@ description="A unique friendship and oustanding artistic collaboration with Phil
 
 
 {% include gimage.html url="/images/photos/SteveSam.jpeg" description="Our beloved Samiki learning to understand the vibrational value of instrumental music's divine effect to the human brain and psyche"%}
-{% include gimage.html url="/images/photos/SteveAnna.jpeg" description="Love Tradition"%}
+{% include gimage.html url="/images/photos/SteveAnna.jpeg" description="Love"%}
 {% include gimage.html url="/images/photos/FamPortrait.jpeg" description="Family forever, and for generations to endure"%}
 {% include gimage.html url="/images/photos/SteveSam2.jpeg" description="Mini-Me"%}
 {% include gimage.html url="/images/photos/AugustSerenade.jpeg" description="American Silk Road"%}
-{% include gimage.html url="/images/photos/BachPrelude.png" description="Bach"%}
-{% include gimage.html url="/images/photos/Toccata_Fugue.png" description="Toccata"%}
+{% include gimage.html url="/images/photos/BachPrelude.png" description="Violin Partita No 3 E Major Prelude. Bach To The Future"%}
+{% include gimage.html url="/images/photos/Toccata_Fugue.png" description="Toccata and Fugue c minor. In artistic collaboration with cellist, David Kadarauch"%}
 
 
 {% include gend.html %} 
