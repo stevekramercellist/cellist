@@ -52,10 +52,8 @@ layout: wider
      <td valign="top"><a href="https://www.youtube.com/embed/dhLBI0udTpk" target="_blank">
 <img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/Passacaglia.png">
 </a></td>
-
   </tr>
-<tr> 
-  
+  <tr>
      <td valign="top"><a href="https://www.youtube.com/embed/LAf57ZN-X_E" target="_blank">
 <img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/ViolinSanatasGigue.png">
 </a></td>   
@@ -68,7 +66,7 @@ layout: wider
    
   </tr>
 
-<tr> 
+  <tr>
    <td valign="top"><a href="https://www.youtube.com/embed/3OS3WmhSb3s" target="_blank">
 <img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/Minuet1008.png">
 </a></td>
@@ -80,7 +78,7 @@ layout: wider
 </a></td>
   </tr>  
   
-<tr>
+  <tr>
    <td valign="top"><a href="https://www.youtube.com/embed/JXN-Gl1hIpM" target="_blank">
 <img class="pure-img" style="width:390px;" src="{{site.baseurl}}/images/video_images/BWV1007Sarabande.png">
 </a></td>  
